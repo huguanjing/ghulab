@@ -24,8 +24,8 @@ description: A virtual proof that name is awesome!
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Research:
-  Publications:
+  Research: "research"
+  Publications: "publications"
   CV: "https://www.dropbox.com/s/6jnd9mrmqm6rqng/GuanjingHu_CV.pdf"
   # Resources:
   #  - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
