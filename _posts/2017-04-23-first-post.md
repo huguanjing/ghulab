@@ -15,7 +15,7 @@ I have always wanted to build my personal websites and occasionally explored web
 
 Knowing about the free hosting service by Github Pages is pretty much what get me started with some real work. At first, It is super easy to make a project webpage on Github websites with some button clicking, which can automatically a repo README into a static page. Awesome! 
 
-Then what about a personal page? On a plain index.html, I can paste my whole CV following “Helllo World”, but I think I want something prettier and more organized than that. After watching serveral youtube tutoral videos and playing with several templates, I decided to settle down with this [Beautiful Jekyll theme](http://deanattali.com/beautiful-jekyll/). I must say I am very happy about the results! 
+Then what about a personal page? On a plain `index.html`, I can paste my whole CV following “Helllo World”, but I think I want something prettier and more organized than that. After watching serveral youtube tutoral videos and playing with several templates, I decided to settle down with this [Beautiful Jekyll theme](http://deanattali.com/beautiful-jekyll/). I must say I am very happy about the results! 
 
 
 
