@@ -1,5 +1,6 @@
 ---
-layout: minimal
+layout: page
+title: test
 image: /img/cottonBoll.png
 ---
 
