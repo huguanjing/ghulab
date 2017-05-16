@@ -19,16 +19,17 @@ Normal Text
   <a href="#">Link 2</a> |
   <a href="#">Link 3</a>
   <br><br>
-  <b>[Evolutionary Dynamics of Cottonseed CO-expression Network](research/seedNetwork.md)</b><br>
   <img align="left" src="/research/seedNet.indiv2.jpg" width="500">
 </p>
 
-<div>
+<p align="right">
+  <b>Some Links:</b><br>
+  <a href="#">Link 1</a> |
+  <a href="#">Link 2</a> |
+  <a href="#">Link 3</a>
+  <br><br>
+  <b>[Evolutionary Dynamics of Cottonseed CO-expression Network](research/seedNetwork.md)</b><br>
+ </p>
 
-  <img class="img-valign" src="http://www.placehold.it/50x50" alt=""/>
-  <span class="text2">some text2</span>
-  <img class="img-valign" src="http://www.placehold.it/70x70" alt=""/>
-  <span class="text2">some text2</span>
-  
-</div>
+
 ---
