@@ -16,14 +16,16 @@ understand gene coexpression network conservation and divergence at various evol
 ![](/research/seedNet.multi2.jpg)
 
 #### Compare individual species networks to reveal topological changes in response to evolutionary events
-Network comparisons among species indicate that topologies are altered in addition to gene expression profiles, indicating that changes in transcriptomic coexpression relationships play a role in the developmental architecture of cotton seed development. The global network topology of allopolyploids, especially fordomesticated *G. hirsutum*, resembles the network of the A-genome diploid more than that of the D-genome parent, despite its D-like phenotype in oil content. Among allopolyploids, intermodular relationships are more preserved between two different wild allopolyploid species than they are between wild and domesticated forms of a cultivated cotton, and regulatory connections of oil synthesis-related pathways are denser andmore closely clustered in domesticated vs. wild *G. hirsutum*. These results demonstrate **substantial modification of genic coexpression under domestication**.
-
+Network comparisons among species indicate that topologies are altered in addition to gene expression profiles, indicating that changes in transcriptomic coexpression relationships play a role in the developmental architecture of cotton seed development. The global network topology of allopolyploids, especially fordomesticated *G. hirsutum*, resembles the network of the A-genome diploid more than that of the D-genome parent, despite its D-like phenotype in oil content. Among allopolyploids, intermodular relationships are more preserved between two different wild allopolyploid species than they are between wild and domesticated forms of a cultivated cotton, and regulatory connections of oil synthesis-related pathways are denser andmore closely clustered in domesticated vs. wild *G. hirsutum*. These results demonstrate **substantial modification of genic coexpression under domestication**.  
 ![](/research/seedNet.indiv.jpg)
-The preservation test statistic D is presented for between-genome comparisons. The closer D is to 1, the higher the preservation.
+
+> Consensus modules represented by nodes are connected by edges representing intermodular relationship (highly correlated with Pearson’s correlation r>0.9) in each species. Node size is proportional to the total number of genes assigned to each consensus module. Node coloring reveals module eigengenes that are highly correlated (red) or anti-correlated (blue) with developmental stage. The preservation test statistic D is presented for between-genome comparisons. The closer D is to 1, the higher the preservation.
 
 #### Oil Synthesis and Lipid Related Gene Network Altered by Domestication
-![](/research/seedNet.oilNet.jpg)
 Regulatory connections of oil synthesis-related pathways are denser and more closely clustered in domesticated vs. wild *G. hirsutum*, suggesting **domestication strengthens the regulatory connections of oil synthesis and lipid related gene families**. 
+![](/research/seedNet.oilNet.jpg)
+
+>
 
 
 ----
