@@ -1,6 +1,5 @@
 ---
 layout: page
-title:   
 image: /img/cottonBoll.png
 ---
 
