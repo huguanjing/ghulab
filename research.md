@@ -1,9 +1,17 @@
 ---
 layout: page
-title: Research Projects
-subtitle: Science is fun, not all the times, but fun
+title: 
+subtitle: 
+bigimg:
+  - "/img/big-imgs/cabopulmo.jpg" : "Cabo Pulmo, Mexico (2017)"
+  - "/img/big-imgs/loscarbos.jpg" : "San José del Cabo, Mexico (2017)"
 ---
+
+## Research
+#### CLICK ON THE IMAGES BELOW TO LEARN MORE ABOUT MY RESEARCH PROJECTS.
 ----
+
+
 
 ## Project 1 - header two
 **emphasis**
