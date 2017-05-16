@@ -11,18 +11,19 @@ bigimg:
 CLICK ON THE IMAGES BELOW TO LEARN MORE ABOUT MY RESEARCH PROJECTS.
      
 <p align="left">
-  <a href="/research/seedNetwork.md">Evolutionary Dynamics of Cottonseed CO-expression Network</a>
   <img align="left" src="/research/seedNet.indiv2.jpg" width="500">
 </p>
 
 <p align="right">
-  <b>[Evolutionary Dynamics of Cottonseed CO-expression Network](research/seedNetwork.md)</b><br>
- </p>
-
+  <br><br><br><br>
+  <a href="/research/seedNetwork.md">Evolutionary Dynamics of Cottonseed CO-expression Network</a>
+  <br><br><br><br>
+</p>
 
 ---
 
 
+<div>
 <p align="center">
   <b>Some Links:</b><br>
   <a href="#">Link 1</a> |
@@ -30,3 +31,4 @@ CLICK ON THE IMAGES BELOW TO LEARN MORE ABOUT MY RESEARCH PROJECTS.
   <a href="#">Link 3</a>
   <br><br>
 </p>
+</div>
