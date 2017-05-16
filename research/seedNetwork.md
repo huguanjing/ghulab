@@ -1,11 +1,17 @@
 ---
 layout: page
 title: 
-image: /img/hello_world.jpeg
+image: /img/cottonBoll.png
 tags: [random, exciting-stuff]
 ---
 
 ## EVOLUTIONARY DYNAMICS OF COTTONSEED CO-EXPRESSION NEYWORK |
+
+![](/research/seedNet.phenotype.jpg)
+![](/research/seedNet.multi1.jpg)
+![](/research/seedNet.multi2.jpg)
+![](/research/seedNet.indiv.jpg)
+![](/research/seedNet.oilNet.jpg)
 
 ----
 
