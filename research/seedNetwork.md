@@ -2,7 +2,6 @@
 layout: page
 title: 
 image: /img/cottonBoll.png
-tags: [random, exciting-stuff]
 ---
 
 ## EVOLUTIONARY DYNAMICS OF COTTONSEED CO-EXPRESSION NEYWORK |
@@ -16,28 +15,6 @@ tags: [random, exciting-stuff]
 ----
 
 
-
-
-## Project 1 - header two
-**emphasis**
-_Gossypium italianized_
-* question 1
-  * sub
-* question 2
-  1. test
-    
-      Description of 
-  2. test
-
-
-## Project 2 - header two
-[Search for it.](www.google.com)
-
-Make some [refernce][a], and [again][b].
-[a]:www.zombo.com
-[b]:www.stumbleupon.com
-
-![alt.text: A image of Octdrey Catburn](http://octodex.github.com/images/octdrey-catburn.jpg)
 
 Quote:
 
