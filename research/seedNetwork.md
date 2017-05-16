@@ -3,7 +3,7 @@ layout: page
 image: /img/cottonBoll.png
 ---
 
-## EVOLUTIONARY DYNAMICS OF COTTONSEED CO-EXPRESSION NEYWORK |
+## EVOLUTIONARY DYNAMICS OF COTTONSEED CO-EXPRESSION NEYWORK
 
 ![](/research/seedNet.phenotype.jpg)
 ![](/research/seedNet.multi1.jpg)
