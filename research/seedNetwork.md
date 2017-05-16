@@ -1,16 +1,12 @@
 ---
 layout: page
 title: 
-subtitle: 
-bigimg:
-  - "/img/big-imgs/D3d.png" : "_Gossypium davidsonii_ collected from Cabo Pulmo, Mexico (2017)"
+image: /img/hello_world.jpeg
+tags: [random, exciting-stuff]
 ---
 
-# Research
+## EVOLUTIONARY DYNAMICS OF COTTONSEED CO-EXPRESSION NEYWORK |
 
-CLICK ON THE IMAGES BELOW TO LEARN MORE ABOUT MY RESEARCH PROJECTS.
-
-| ![Flowers](/research/seedNet.indiv2.jpg) | EVOLUTIONARY DYNAMICS OF COTTONSEED CO-EXPRESSION NEYWORK |
 ----
 
 
