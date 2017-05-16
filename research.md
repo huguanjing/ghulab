@@ -9,27 +9,24 @@ bigimg:
 # Research
 
 CLICK ON THE IMAGES BELOW TO LEARN MORE ABOUT MY RESEARCH PROJECTS.
-
-
-Normal Text    
      
 <p align="left">
-  <b>Some Links:</b><br>
-  <a href="#">Link 1</a> |
-  <a href="#">Link 2</a> |
-  <a href="#">Link 3</a>
-  <br><br>
+  <a href="/research/seedNetwork.md">Evolutionary Dynamics of Cottonseed CO-expression Network</a>
   <img align="left" src="/research/seedNet.indiv2.jpg" width="500">
 </p>
 
 <p align="right">
-  <b>Some Links:</b><br>
-  <a href="#">Link 1</a> |
-  <a href="#">Link 2</a> |
-  <a href="#">Link 3</a>
-  <br><br>
   <b>[Evolutionary Dynamics of Cottonseed CO-expression Network](research/seedNetwork.md)</b><br>
  </p>
 
 
 ---
+
+
+<p align="center">
+  <b>Some Links:</b><br>
+  <a href="#">Link 1</a> |
+  <a href="#">Link 2</a> |
+  <a href="#">Link 3</a>
+  <br><br>
+</p>
