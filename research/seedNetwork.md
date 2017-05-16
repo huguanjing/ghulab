@@ -1,8 +1,18 @@
 ---
 layout: page
-title: research project
+title: Research Projects
 image: /img/cottonBoll.png
 ---
+
+<div>
+<p align="center">
+  <a href="#">seed development</a> |
+  <a href="#">Link 2</a> |
+  <a href="#">Link 3</a>
+  <br><br>
+</p>
+</div>
+
 
 ## Evolutionary dynamics of cottonseed co-expression gene network
 ![](/research/seedNet.phenotype.jpg)
