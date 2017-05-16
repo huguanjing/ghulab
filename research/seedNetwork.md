@@ -1,5 +1,5 @@
 ---
-layout: base
+layout: minimal
 image: /img/cottonBoll.png
 ---
 
