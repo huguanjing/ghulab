@@ -7,7 +7,16 @@ bigimg:
 ---
 
 # Research
+
 CLICK ON THE IMAGES BELOW TO LEARN MORE ABOUT MY RESEARCH PROJECTS.
+
+| ![Flowers](/research/seedNet.indiv2.jpg) | EVOLUTIONARY DYNAMICS OF COTTONSEED CO-EXPRESSION NEYWORK |
+----
+| ![Flowers](/img/big-imgs/seedNet.indiv2.jpg) | EVOLUTIONARY DYNAMICS OF COTTONSEED CO-EXPRESSION NEYWORK |
+----
+| ![Flowers](/img/big-imgs/seedNet.indiv2.jpg) | EVOLUTIONARY DYNAMICS OF COTTONSEED CO-EXPRESSION NEYWORK |
+----
+| ![Flowers](/img/big-imgs/seedNet.indiv2.jpg) | EVOLUTIONARY DYNAMICS OF COTTONSEED CO-EXPRESSION NEYWORK |
 ----
 
 
