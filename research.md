@@ -10,5 +10,6 @@ bigimg:
 
 CLICK ON THE IMAGES BELOW TO LEARN MORE ABOUT MY RESEARCH PROJECTS.
 
-<img align="left" src="/research/seedNet.indiv2.jpg" />
-testest
+<img align="left" src="/research/seedNet.indiv2.jpg" width="500"/>
+
+[Evolutionary Dynamics of Cottonseed CO-expression Network](research/seedNetwork.md)
