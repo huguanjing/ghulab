@@ -1,9 +1,9 @@
 ---
 layout: page
-title:
+title: Doing Science!
 subtitle:
 bigimg:
-  - "/img/big-imgs/D3d.png" : "_Gossypium davidsonii_ collected from Cabo Pulmo, Mexico (2017)"
+  - "/img/big-imgs/D3d.png" : "_Gossypium davidsonii_ from Cabo Pulmo, Mexico (2017)"
 ---
 
 # Research
