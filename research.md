@@ -3,12 +3,11 @@ layout: page
 title: 
 subtitle: 
 bigimg:
-  - "/img/big-imgs/cabopulmo.jpg" : "Cabo Pulmo, Mexico (2017)"
-  - "/img/big-imgs/loscarbos.jpg" : "San José del Cabo, Mexico (2017)"
+  - "/img/big-imgs/D3d.png" : "_Gossypium davidsonii_ collected from Cabo Pulmo, Mexico (2017)"
 ---
 
-## Research
-#### CLICK ON THE IMAGES BELOW TO LEARN MORE ABOUT MY RESEARCH PROJECTS.
+# Research
+CLICK ON THE IMAGES BELOW TO LEARN MORE ABOUT MY RESEARCH PROJECTS.
 ----
 
 
