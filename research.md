@@ -10,7 +10,10 @@ bigimg:
 
 CLICK ON THE IMAGES BELOW TO LEARN MORE ABOUT MY RESEARCH PROJECTS.
 
-| ![Flowers](/research/seedNet.indiv2.jpg) | EVOLUTIONARY DYNAMICS OF COTTONSEED CO-EXPRESSION NEYWORK |
+<img align="left" src="/research/seedNet.indiv2.jpg" />
+testest
+
+
 ----
 | ![Flowers](/img/big-imgs/seedNet.indiv2.jpg) | EVOLUTIONARY DYNAMICS OF COTTONSEED CO-EXPRESSION NEYWORK |
 ----
