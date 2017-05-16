@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 image: /img/cottonBoll.png
 ---
 
