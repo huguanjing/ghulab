@@ -16,7 +16,7 @@ CLICK ON THE IMAGES BELOW TO LEARN MORE ABOUT MY RESEARCH PROJECTS.
 
 <p align="right">
   <br><br><br><br>
-  <a href="/research/seedNetwork.md">Evolutionary Dynamics of Cottonseed CO-expression Network</a>
+  <a href="/research/seedNetwork">Evolutionary Dynamics of Cottonseed Co-expression Network</a>
   <br><br><br><br>
 </p>
 
