@@ -2,7 +2,7 @@
 layout: post
 title: Hello World!
 image: /img/hello_world.jpeg
-tags: [random, exciting-stuff]
+tags: [website,skill]
 ---
 
 My personal academic website is up!
