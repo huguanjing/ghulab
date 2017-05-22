@@ -5,17 +5,25 @@ image: /img/writing-icon-9.png
 tags: [writing; skills]
 ---
 
-My personal academic website is up!
+Compared to academic writing in LaTex, Markdown appears to be a less intimidating choice to me, considering that I have got some experences with Github README files and there is a page of "Markdown Cheat Sheet" lying in the corner of my desktop. So I was like, Hey, this is the solution to keep me focused on WRITING, not FORMATING! Hmmmmmmmm, the problem is that I am supposed to be writing this afternoon, BUT, I am now distracted to learn EVERTHING about **how to write in markdown**. Good job, me.
 
-I have always wanted to build my personal websites and occasionally explored website builders like  Wix and SquareSpace. Although those builders seem really easy to use and provide eye-catching themes, my feeling is that they still require a lot of nifty photographs and being handled by a user with actual graphic design or visual art skills to look right. When it comes to the academic site, my goal is to keep the design clean without too much distractions but still looking pretty. There are basic requirements in my mind:
+This [youtube video](https://www.youtube.com/watch?v=hpAJMSS8pvs&t=57s) by Nicholas Cifuentes-Goodbody was quite helpful to get me through the basics of how writing in markdown look like. So I decided to watch the rest of his video while working on one of my draft manuscript at the same time. Frankly, it was not a fluent process of learning followed by practicing, because of my limited patience and constant distractions by various fancy tools. But here is an orgainized list of resources and How-To for my own record and future reference. 
 
-* I really don’t plan to or have the time to learn website development, so it needs to be a solution for beginners.
-* Minimal cost (i mean zero) for website hosting while long-lasting.
-* Simple and easy to maitain layout: research, publications, and CV 
+## Programs installed
+* [Marked2](http://marked2app.com) - convert plain text to other documents (including HTML, PDF and Word) in a wide range of styles. 
 
-Knowing about the free hosting service by Github Pages is pretty much what get me started with some real work. At first, It is super easy to make a project webpage on Github websites with some button clicking, which can automatically a repo README into a static page. Awesome! 
+## Q&A
 
-Then what about a personal page? On a plain `index.html`, I can paste my whole CV following “Helllo World”, but I think I want something prettier and more organized than that. After watching serveral youtube tutoral videos and playing with several templates, I decided to settle down with this [Beautiful Jekyll theme](http://deanattali.com/beautiful-jekyll/). I must say I am very happy about the results! 
+### What text editor should I use to write my markdown files? 
+**TextEdit** comes pre-installed in Mac OS, which opens a new document in rich text mode by default. To work in plain text mode, go to **Format > Make Plain Text** in the menu bar, or use the keyboard shortcut **Shift-Command-T**. Other coding editors like BBEdit, TextWrangler, Xcode, etc work too.
+
+### How to make tables?
+Creating tables in Markdown is straightforward, but can be a little daunting
+For the live preview, I'm using Marked 2.﻿
+2. 
+
+
+
 
 
 
