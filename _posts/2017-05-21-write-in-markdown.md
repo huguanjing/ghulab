@@ -10,8 +10,8 @@ Compared to academic writing in LaTex, Markdown appears to be a less intimidatin
 This [youtube video](https://www.youtube.com/watch?v=hpAJMSS8pvs&t=57s) by Nicholas Cifuentes-Goodbody was quite helpful to get me through the basics of how writing in markdown look like. So I decided to watch the rest of his video while working on one of my draft manuscript at the same time. Frankly, it was not a fluent process of learning followed by practicing, because of my limited patience and constant distractions by various fancy tools. But here is an orgainized list of resources and How-To for my own record and future reference. 
 
 ## Program - MUST HAVE
-* [Marked2](http://marked2app.com) - convert plain text to other documents (including HTML, PDF and Word) in a wide range of styles.
-* [Pandoc]()
+* [Pandoc](http://pandoc.org) - a powerful universal document converter
+* [Marked2](http://marked2app.com) - for quick preview, convering plain text to other documents (including HTML, PDF and Word) in a wide range of styles.
 
 ## Program - OPTIONAL
 * [TableFlip](http://tableflipapp.com) - edit markdown tables similiar as excel spreadsheat in place
