@@ -5,7 +5,7 @@ image: /img/writing-icon-9.png
 tags: [writing; skills]
 ---
 
-Compared to academic writing in LaTex, Markdown appears to be a less intimidating choice to me, considering that I have got some experences with Github README files and there is a page of "Markdown Cheat Sheet" lying in the corner of my desktop. So I was like, Hey, this is the solution to keep me focused on WRITING, not FORMATING! Hmmmmmmmm, the problem is that I am supposed to be writing this afternoon, BUT, I am now distracted to learn EVERTHING about **how to write in markdown**. Good job, me.
+Compared to academic writing in LaTeX, Markdown appears to be a less intimidating choice to me, considering that I have got some experences with Github README files and there is a page of "Markdown Cheat Sheet" lying in the corner of my desktop. So I was like, Hey, this is the solution to keep me focused on WRITING, not FORMATING! Hmmmmmmmm, the problem is that I am supposed to be writing this afternoon, BUT, I am now distracted to learn EVERTHING about **how to write in markdown**. Good job, me.
 
 This [youtube video](https://www.youtube.com/watch?v=hpAJMSS8pvs&t=57s) by Nicholas Cifuentes-Goodbody was quite helpful to get me through the basics of how writing in markdown look like. So I decided to watch the rest of his video while working on one of my draft manuscript at the same time. Frankly, it was not a fluent process of learning followed by practicing, because of my limited patience and constant distractions by various fancy tools. But here is an orgainized list of resources and How-To for my own record and future reference. 
 
@@ -24,6 +24,23 @@ This [youtube video](https://www.youtube.com/watch?v=hpAJMSS8pvs&t=57s) by Nicho
 ### How to make tables?
 Creating tables in Markdown is straightforward, but aligning cells with tons of  `|` and `-` really sucks! **TableFlip** seems to be a useful tool but it costs $18.99... why? Marked2 was only $13.99. I will stick to this online table generator (http://www.tablesgenerator.com/markdown_tables) until I am getting really desperate. 
 
+### How to manage reference and insert citations?
+For writing with Microsoft Word, I use EndNote to organize reference and Cite-While-Your-Write. To write in plain text, I will need a `bib` (Bib(La)Tex) file, which is a plain-text document that contains metatdata for the sources of reference. To make this transition, I first exported my entire endnote library to a `bib` file, and modify 
+
+### How do I write plain text while having a real-time preview of converted verion for checking? 
+The answer is to open the plain text file with **Marked2**. But it doesn't render my `bib` citations directly, I needed to ask Marked2 to use Pandoc as a custom processer: Go to Preference, click Advanced tab, give the pandoc path `/usr/local/bin/pandoc` and argument `-f markdown -t html5 --bibliography=/Users/Jing/Dropbox/Work/ref.bib --smart --normalize -s` to enable custom processor.
+
+
+convert the master markdown file to ready-to-submit manuscript?
+
+### How to convert the master markdown file to ready-to-submit manuscript?
+**Pandoc** is the magic tool. After installation, type `pandoc --version` in terminal to check if installed correctly. 
+    pandoc test.txt --bibliography testlibrary.bib --smart --normalize -s -o test.rtf
+    # pandoc <input> --bibliography <citation.bib>
+    # --smart: prouce typographically correct output 
+    # --normalize: remove repeated space, cleanning up input
+    # -s: produce standalone document
+    # -o: point to output file
 
 
 
