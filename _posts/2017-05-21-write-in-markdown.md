@@ -28,7 +28,7 @@ Creating tables in Markdown is straightforward, but aligning cells with tons of 
 For writing with Microsoft Word, I use EndNote to organize reference and Cite-While-Your-Write. To write in plain text, I will need a `bib` (Bib(La)Tex) file, which is a plain-text document that contains metatdata for the sources of reference. To make this transition, I first exported my entire endnote library to a `bib` file, and modify 
 
 ### How do I write plain text while having a real-time preview of converted verion for checking? 
-The answer is to open the plain text file with **Marked2**. But it doesn't render my `bib` citations directly, I needed to ask Marked2 to use Pandoc as a custom processer: Go to Preference, click Advanced tab, give the pandoc path `/usr/local/bin/pandoc` and argument `-f markdown -t html5 --bibliography=/Users/Jing/Dropbox/Work/ref.bib --smart --normalize -s` to enable custom processor.
+The answer is to open the plain text file with **Marked2**. But it doesn't render my `bib` citations directly, I needed to ask Marked2 to use Pandoc as a custom processer: Go to Preference, click Advanced tab, enable Preprocessor by giving the pandoc path `/usr/local/bin/pandoc` and argument `--filter pandoc-citeproc --bibliography=/Users/Jing/Dropbox/Writing/ref.bib --csl=/Users/Jing/Dropbox/Writing/style/chicago-author-date.csl`. [Here is a more detailed instruction](http://verifyandrepair.com/04-13-2016/citations-export-preview/).
 
 
 convert the master markdown file to ready-to-submit manuscript?
