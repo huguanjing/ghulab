@@ -22,7 +22,7 @@ This [youtube video](https://www.youtube.com/watch?v=hpAJMSS8pvs&t=57s) by Nicho
 **TextEdit** comes pre-installed in Mac OS, which opens a new document in rich text mode by default. To work in plain text mode, go to **Format > Make Plain Text** in the menu bar, or use the keyboard shortcut **Shift-Command-T**. Other coding editors like BBEdit, TextWrangler, Xcode, etc work too.
 
 ### How to make tables?
-Creating tables in Markdown is straightforward, but aligning cells with tons of  `|` and `-` really sucks! **TableFlip** seems to be a useful tool but it costs $18.99... seriously? Marked2 was only $13.99! I will stick to this online table generator (http://www.tablesgenerator.com/markdown_tables) until I am getting really desperate. 
+Creating tables in Markdown is straightforward, but aligning cells with tons of  `|` and `-` really sucks! **TableFlip** seems to be a useful tool but it costs $18.99... why? Marked2 was only $13.99. I will stick to this online table generator (http://www.tablesgenerator.com/markdown_tables) until I am getting really desperate. 
 
 
 
