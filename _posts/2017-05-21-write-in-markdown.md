@@ -30,19 +30,18 @@ For writing with Microsoft Word, I use EndNote to organize reference and Cite-Wh
 ### How do I write plain text while having a real-time preview of converted verion for checking? 
 The answer is to open the plain text file with **Marked2**. But it doesn't render my `bib` citations directly, I needed to ask Marked2 to use Pandoc as a custom processer: Go to Preference, click Advanced tab, enable Preprocessor by giving the pandoc path `/usr/local/bin/pandoc` and argument `--filter pandoc-citeproc --bibliography=/Users/Jing/Dropbox/Writing/ref.bib --csl=/Users/Jing/Dropbox/Writing/style/chicago-author-date.csl`. [Here is a more detailed instruction](http://verifyandrepair.com/04-13-2016/citations-export-preview/).
 
-
-convert the master markdown file to ready-to-submit manuscript?
-
 ### How to convert the master markdown file to ready-to-submit manuscript?
-**Pandoc** is the magic tool. After installation, type `pandoc --version` in terminal to check if installed correctly. 
-    pandoc test.txt --bibliography testlibrary.bib --smart --normalize -s -o test.rtf
-    # pandoc <input> --bibliography <citation.bib>
+**Pandoc** is the magic tool. After installation, first type `pandoc --version` in terminal to check if installed correctly. Basic pandoc options include:
+
+    ### Usage: pandoc <input> --bibliography <citation.bib> --smart --normalize -s -o <output>
     # --smart: prouce typographically correct output 
     # --normalize: remove repeated space, cleanning up input
     # -s: produce standalone document
     # -o: point to output file
 
+I believe my most used conversion would be from markdown to word document. Given that pandoc's default `docx` is quite ugly, some generic style I like can be defined in a master `reference-docx`.
 
+    pandoc manuscript.md -o manuscript.docx --bibliography=/Users/Jing/Dropbox/Writing/ref.bib --reference-docx=/Users/Jing/Dropbox/Writing/reference.docx --smart --normalize -s 
 
 
 
