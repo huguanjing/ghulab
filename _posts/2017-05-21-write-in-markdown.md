@@ -43,7 +43,8 @@ I believe my most used conversion would be from markdown to word document. Given
 
     pandoc manuscript.md -o manuscript.docx --bibliography=/Users/Jing/Dropbox/Writing/ref.bib --reference-docx=/Users/Jing/Dropbox/Writing/reference.docx --smart --normalize -s 
 
-
+### How to prepare CV in markdown?
+Same concept, CV can also be written in markdown, and converted to other formats. The simplest solution I found is [here](http://tomp.io/markdown-cv.html).
 
 
 
