@@ -50,7 +50,7 @@ author:
   email: "huguanjing@gmail.com"
   #facebook: yourname  # eg. daattali
   github: huguanjing    # eg. daattali
-  #twitter: yourname   # eg. daattali
+  twitter: run4here   # eg. daattali
   #reddit: yourname    # eg. daattali
   #google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
   linkedin: guanjing-hu-09945a59  # eg. daattali
@@ -67,7 +67,7 @@ footer-links-active:
   rss: false
   facebook: false
   email: true
-  twitter: false
+  twitter: true
   google-plus: false
   github: true
   reddit: false
