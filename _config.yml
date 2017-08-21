@@ -25,7 +25,7 @@ description: A virtual proof that name is awesome!
 navbar-links:
   Research: "research"
   Publications: "publications"
-  Blog: "blog"
+  Blog: "posts"
   CV: "files/C.V_Guanjing Hu.pdf"
   # Resources:
   #  - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
