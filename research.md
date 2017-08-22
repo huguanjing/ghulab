@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Research
-subtitle:
 image: /img/profile.jpg
 ---
 
