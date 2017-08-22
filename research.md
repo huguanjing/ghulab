@@ -19,12 +19,12 @@ Experimental approaches include classical genetics and molecular biology, functi
 Click on links below to learn more about my research projects. For links to research articles, visit my [Publications](publications.md) page.
 
 ---
-
+   
 [Chromatin structure and nucleosome positioning in diploid and allopolyploid cotton](/research/chromatin.md): 
 differential nuclease sensitivity profiling of chromatin (MNase-seq) was used to characterize nuclesome positioning and chromatin accessibility landscapes in response to genome evolution and abiotic stresses.
 
 ---
-
+   
 <p align="left">
   <img align="left" src="/research/NetworkEvo.png" width="500">
 </p>
@@ -41,9 +41,9 @@ differential nuclease sensitivity profiling of chromatin (MNase-seq) was used to
   <img align="left" src="/research/proteomics.png" width="500">
 </p>
 <p align="right">
-  <br><br><br><br><br>
+  <br><br><br><br>
   <a href="/research/proteomics">Evolutionary proteomics of cotton</a>: this project was initiated as my <a href="http://lib.dr.iastate.edu/etd/13415/">phD dissertation</a> work, and has continued to focus on the integration of transcriptome and proteome data.
-  <br><br><br><br><br>
+  <br><br><br><br>
 </p>
 
 ---
@@ -52,9 +52,9 @@ differential nuclease sensitivity profiling of chromatin (MNase-seq) was used to
   <img align="left" src="/research/seedNet.indiv2.jpg" width="500">
 </p>
 <p align="right">
-  <br><br><br><br><br><br><br><br>
+  <br><br><br><br><br><br>
   <a href="/research/seedNetwork">Evolutionary Dynamics of Cottonseed Co-expression Network</a>
-  <br><br><br><br><br><br><br><br>
+  <br><br><br><br><br><br>
 </p>
 
 ---
