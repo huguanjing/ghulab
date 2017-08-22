@@ -31,7 +31,7 @@ differential nuclease sensitivity profiling of chromatin (MNase-seq) was used to
 
 <p align="right">
   <br><br><br><br><br>
-  <a href="/research/NetworkEvo">Evolutionary dynamics of duplicated gene networks</a>
+  <a href="/research/NetworkEvo">Dynamics of duplicated networks in polyploids</a>
   <br><br><br><br><br>
 </p>
 
