@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Research
+title: Dynamics of duplicated networks in polyploids
 ---
 
-# Dynamics of duplicated networks in polyploids
 <div>
 <p align="center">
   <a href="#challenges">challenges and pitfalls</a> |
