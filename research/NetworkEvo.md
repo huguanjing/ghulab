@@ -26,8 +26,9 @@ The resulted networks will show differences from the expected network, as indica
 Applying the analysitic workflow below, we tested different methods at multiple stages as a possible source of technical variance, and also compared their performances.
 ![](/research/pitfall3.png)
 
-<a name="seed"></a>
+---
 
+<a name="seed"></a>
 ## Co-expression gene network of cottonseed development
 
 To gain insight into phenotypic diversification in cotton seeds, we conducted co-expression network analysis of developing seeds from diploid and allopolyploid cotton species and explored network properties.
