@@ -1,12 +1,16 @@
 ---
 layout: page
-title: Doing Science!
+title: Research
 subtitle:
-bigimg:
-  - "/img/big-imgs/D3d.png" : "G. davidsonii from Cabo Pulmo, Mexico (2017)"
+image: /img/profile.jpg
 ---
 
-# Research
+## Research
+
+* Evolutionary dynamics of duplicated gene expression
+* Cottonseed development and evolution
+* Parallel domestication of cotton fibers
+
 
 CLICK ON THE LINKS BELOW TO LEARN MORE ABOUT MY RESEARCH PROJECTS.
 
