@@ -13,19 +13,21 @@ title: Dynamics of duplicated networks in polyploids
 </div>
 
 <a name="challenges"></a>
+
 ## Challenges and pitfalls in the use of partitioned gene counts for homoeologous gene expression and co-expression network analyses
 
 
 As shown below in an allotetraploid genome, homoeologs refers to the duplicated gene pairs originated from its parental diploids. Only sequencing reads containing homoeolog distinguishing SNPs can be assigned to either homoeolog genes, while some reads like the two grey ones here remain indistinguishable. 
 ![](/research/pitfall1.png)
 
-Ideally, based on the expression profiles of homoeolog we can build separate network for each sub-genome. But the reality is that a portion of RNA-seq reads per gene are not specific to either homoeolog, which are un-useable to network construction. What we can do is building networks based on only homoeolog-specific read counts. The resulted networks will show differences from the expected network, as indicated by arrows.
+The resulted networks will show differences from the expected network, as indicated by arrows.
 ![](/research/pitfall2.png)
 
-Therefore we want to ask how do such differences affect our downstream analysis. Applying the analysitic workflow below, we tested different methods at multiple stages as a possible source of technical variance, and also compared their performances. Eventually, we would like to define a reasonable practice for this kind of analysis and and avoid major artifacts.
+Applying the analysitic workflow below, we tested different methods at multiple stages as a possible source of technical variance, and also compared their performances.
 ![](/research/pitfall3.png)
 
 <a name="seed"></a>
+
 ## Co-expression gene network of cottonseed development
 
 To gain insight into phenotypic diversification in cotton seeds, we conducted co-expression network analysis of developing seeds from diploid and allopolyploid cotton species and explored network properties.
