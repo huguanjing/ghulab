@@ -1,50 +1,29 @@
 ---
 layout: page
-title: Research Projects
-image: /img/cottonBoll.png
+title: Evolutionary proteomics of cotton
 ---
 
-* "Evolutionary proteomics of cotton": This project was initiated as my [PhD disseration work](http://lib.dr.iastate.edu/etd/13415/). Since then investigations have continued to focus on the role of the telomere bouquet in meiosis. Research led by postdocs, graduate and undergradaute students at FSU has led to the identification, cloining, and characterization of genes encoding maize telomeric proteins, the characterization and cloning of meiotic mutants with meiotic telomere-misplacement phenotypes, QTL mapping of genetic factors that control variation in telomere length, and the analysis of the meiotic nuclear envelope, SUN domain proteins, and the LINC complex in coordinating the cytoplasm-nucleoplasm interactions that control many aspects of chromosome behavior in meiotic prophase
-* Cottonseed development and evolution
-* Parallel domestication of cotton fibers
+![](research/proteo.intro.png)
+
+This research aims to develop our understanding how evolutionary history, including natural polyploidization and human-mediated domestication, sculpted cotton proteomes. These in-depth functional genomic data are also expected to provide us new opportunities for cotton improvement. Our specific research objectives are: 
+
+1. To develop technology and tools for describing and studying the cotton fiber and seed proteomes. 
+2. To describe the cotton proteome from the standpoint of fiber development, which will allow us to assess the changes that accompany fiber evolution and domestication, and how this correlates with existing information on the transcriptome. 
+3. To understand how the proteome responds to genome doubling; that is, what is novel about polyploid cotton fiber and seed relative to that of its antecedent diploids? 
+4. To detail proteomic consequences of cotton fiber evolution and domestication; for example, to catalog the key proteins associated with and therefore possibly responsible for phenotype changes and important traits relevant to crop improvement.
+
+Using proteomic approaches including 2-DE gel electrophoresis, iTRAQ and label-free , comparative experiments were conducted on developing fibers and seeds in diploid and allopolyploid cotton species.
+
+cotton proteomes of mature seeds [1] and developing fibers[2] were examined to understand the genome-wide proteomic changes accompanying allopolyploidization. Interspecific comparisons of protein composition and expression level among diploid and polyploid cotton species revealed that the allopolyploid cotton display asymmetric proteomic divergence with respect to the diploid progenitors, which is detailed by describing important phenomena of non-additive expression, expression level dominance and homoeolog expression bias.
+
+To understand the genome-wide expression changes associated with domestication, the fiber proteomes represented by four representative developmental stages were studied for two important crop species - *G. hirsutum* [3] and *G. barbadense* [4], using paired wild and domesticated accessions. By contrasting the fiber proteomes and developmental dynamics between wild and domesticated accessions for each species, we were able to characterize the key features of global protein pattern change corresponding to the domestication processes. Furthermore, we identified a number of proteins differentially expressed during fiber development and altered by domestication, as candidate proteins and metabolic processes for functional analyses that may yield insight into domestication and future cotton improvement.
 
 
-<div>
-<p align="center">
-  <a href="#">seed development</a> |
-  <a href="#">Link 2</a> |
-  <a href="#">Link 3</a>
-  <br><br>
-</p>
-</div>
-
-
-## Evolutionary dynamics of cottonseed co-expression gene network
-![](/research/seedNet.phenotype.jpg)
-
-Cotton is best known as an important source of textile fibers; however, cotton seeds also provides vegetable oil and proteins, accounting for 10-15% of its total crop values. During the course of seed development in domesticated form of *Gossypium hirsutum* (TM1), oil content accumulates rapidly from 20 day to 30 days after flowering, and reaches approximately 25% of total seed weight. This profile is more similar to its D-genome than A-genome progenitor. Variance can also be seen from wild and domesticated species. **To gain insight into phenotypic diversification in cotton seeds, we conducted co-expression network analysis of developing seeds from diploid and allopolyploid cotton species and explored network properties.** Two different conceptual approaches were explored to help
-understand gene coexpression network conservation and divergence at various evolutionary timescales and across ploidy levels. First, a multispecies coexpression network was constructed to provide a global view of coexpression network topology among species. Second, individual coexpression networks were constructed and compared for all species included in the study.
-
-### Identify key multispecies network modules associated with devlopmental dynamics and phenotypic diversification  
-![](/research/seedNet.multi1.jpg)
-![](/research/seedNet.multi2.jpg)
-
-### Compare individual species networks to reveal topological changes in response to evolutionary events  
-Network comparisons among species indicate that topologies are altered in addition to gene expression profiles, indicating that changes in transcriptomic coexpression relationships play a role in the developmental architecture of cotton seed development. The global network topology of allopolyploids, especially fordomesticated *G. hirsutum*, resembles the network of the A-genome diploid more than that of the D-genome parent, despite its D-like phenotype in oil content. Among allopolyploids, intermodular relationships are more preserved between two different wild allopolyploid species than they are between wild and domesticated forms of a cultivated cotton, and regulatory connections of oil synthesis-related pathways are denser andmore closely clustered in domesticated vs. wild *G. hirsutum*. These results demonstrate **substantial modification of genic coexpression under domestication**.  
-![](/research/seedNet.indiv.jpg)  
-> Consensus modules represented by nodes are connected by edges representing intermodular relationship (highly correlated with Pearson’s correlation r>0.9) in each species. Node size is proportional to the total number of genes assigned to each consensus module. Node coloring reveals module eigengenes that are highly correlated (red) or anti-correlated (blue) with developmental stage. The preservation test statistic D is presented for between-genome comparisons. The closer D is to 1, the higher the preservation.
-
-### Oil Synthesis and Lipid Related Gene Network Altered by Domestication
-Regulatory connections of oil synthesis-related pathways are denser and more closely clustered in domesticated vs. wild *G. hirsutum*, suggesting **domestication strengthens the regulatory connections of oil synthesis and lipid related gene families**.  
-![](/research/seedNet.oilNet.jpg)  
-> Visualization of the oil related gene co-expression network in wild (Yuc; left panels) and domesticated (TM1; right panels) *G. hirsutum* developing seeds. The network overview (bottom panels) and a closer view (upper panels) of the “up-regulated” cluster are shown for each genome. The bottomtable summarizes the sub-network properties of density and clustering coefficient at the gene family level. A bootstrap approachwas used to test differences between TM1 and Yuc parameters, and * denotes high values with significance (P<0.05). TAG, triacylglycerol.
-
-
-----
-## Homoeolog gene co-expression network implicates biased recruitment of regulatory architecture of seed development  
-Instead of using the aggregated expression of homoeolog gene pairs, we now constructed allopolyploid co-expression networks based on homoeolog-specific expressions. This approach allows direct comparisons of sub-genome networks against their corresponding diploid parental networks. In addition to revealing topological modificantions of the "redundant" duplicated seed network following allopolyploidization, this work aims to explore the assymetric evolution of parental regulatory connections underlying phenotypic evolution and domestication.
-
-Stay tuned!
-
+---
+### Reference
+[1]: **Hu, G.**, N. L. Houston, D. Pathak, L. Schmidt, J. Thelen and J. F. Wendel. 2011. [Genomically biased accumulation of seed storage proteins in allopolyploid cotton](http://www.genetics.org/content/189/3/1103). _Genetics_ 189: 1103-1115. [PDF](files/Genetics2011.pdf) 
+[2]: **Hu, G.**, J. Koh, M. J. Yoo, S. Chen, and J. F. Wendel. 2015. [Gene-expression novelty in allopolyploid cotton: a proteomic perspective](http://www.genetics.org/content/200/1/91.long). _Genetics_ 200: 91-104. [PDF](files/Genetics2015.pdf)
+[3]: **Hu, G.**, J. Koh, M. J. Yoo, D. Pathak, S. Chen, and J. F. Wendel. 2014. [Proteomics profiling of fiber development and domestication in upland cotton (_Gossypium hirsutum_ L.)](https://link.springer.com/article/10.1007/s00425-014-2146-7). _Planta_ 240: 1237-1251. [PDF](files/Planta2014.pdf)
+[4]: **Hu, G.**, J. Koh, M. Yoo, K. Grupp, S. Chen, and J. F. Wendel. 2013. [Proteomic profiling of developing cotton fibers from wild and domesticated Gossypium barbadense](http://onlinelibrary.wiley.com/doi/10.1111/nph.12381/abstract). _New Phytologist_ 200: 570–582 [PDF](files/Phytologist2013.pdf)
 
 
