@@ -5,7 +5,7 @@ subtitle: duplicated gene regulatory networks, genome evolution, plant adaptatio
 image: /img/profile.jpg
 ---
 
-## Briefly about me
+## About me
 
 I am currently a postdoc researcher working with Dr. [Jonathan Wendel](http://www.eeob.iastate.edu/faculty/WendelJ/) in the Department of Ecology, Evolution, and Organismal Biology at [Iowa State University](https://www.iastate.edu/). **My work focuses on evolutionary genetics of polyploidization and phenotypic evolution in plants, specifically using the cotton genus *Gossypium* as a model system**. Between 2006 and 2013, I was a PhD student in the same group underder the supervision of Dr. Jonathan Wendel. My [PhD disseration](http://lib.dr.iastate.edu/etd/13415/) work was to understand proteomic consequences of genome doubling, to describe cotton proteomes from the standpoint of polyploid fiber development and domestication, and to identify key prteins associated with and therefore possibly responsible for phenotypic changes and important traits relevant to crop improvement.
 
@@ -15,12 +15,14 @@ Please feel free to explore the website to learn more about my [research project
 
 ## News
 
+* **2017-5-12~13: I am attending the NYC Global Reseach Iniative Workop "Plant Genome Evolution: From Genotype to Phenotype through Regulatory Networks", and give a talk titled "Dynamics of duplicated netoworks in polyploids".
+* **2017-4-23**: Hellow World! My website is up.
 
 
 ## Contact
 
 ```
-353B Bessy hall
+353B Bessey hall
 Iowa State University
 Ames, Iowa 50011
 USA
