@@ -50,9 +50,9 @@ differential nuclease sensitivity profiling of chromatin (MNase-seq) was used to
 
 <div>
 <p align="center">
-  <b>Some Links:</b><br>
-  <a href="#">Link 1</a> |
-  <a href="#">Link 2</a> |
+  <b>External Links:</b><br>
+  <a href="http://www.eeob.iastate.edu/faculty/WendelJ/research.htm">Wendel Lab Reseach</a> |
+  <a href="https://www.cottongen.org">CottonGen</a> |
   <a href="#">Link 3</a>
   <br><br>
 </p>
