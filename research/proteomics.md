@@ -3,7 +3,7 @@ layout: page
 title: Evolutionary proteomics of cotton
 ---
 
-![](research/proteo.intro.png)
+![](/research/proteo.intro.png)
 
 This research aims to develop our understanding how evolutionary history, including natural polyploidization and human-mediated domestication, sculpted cotton proteomes. These in-depth functional genomic data are also expected to provide us new opportunities for cotton improvement. Our specific research objectives are: 
 
@@ -14,9 +14,9 @@ This research aims to develop our understanding how evolutionary history, includ
 
 Using proteomic approaches including 2-DE gel electrophoresis, iTRAQ and label-free , comparative experiments were conducted on developing fibers and seeds in diploid and allopolyploid cotton species.
 
-cotton proteomes of mature seeds [1] and developing fibers[2] were examined to understand the genome-wide proteomic changes accompanying allopolyploidization. Interspecific comparisons of protein composition and expression level among diploid and polyploid cotton species revealed that the allopolyploid cotton display asymmetric proteomic divergence with respect to the diploid progenitors, which is detailed by describing important phenomena of non-additive expression, expression level dominance and homoeolog expression bias.
+cotton proteomes of mature seeds ([Hu et al. 2011)][1]) and developing fibers ([Hu et al. 2015][2]) were examined to understand the genome-wide proteomic changes accompanying allopolyploidization. Interspecific comparisons of protein composition and expression level among diploid and polyploid cotton species revealed that the allopolyploid cotton display asymmetric proteomic divergence with respect to the diploid progenitors, which is detailed by describing important phenomena of non-additive expression, expression level dominance and homoeolog expression bias.
 
-To understand the genome-wide expression changes associated with domestication, the fiber proteomes represented by four representative developmental stages were studied for two important crop species - *G. hirsutum* [3] and *G. barbadense* [4], using paired wild and domesticated accessions. By contrasting the fiber proteomes and developmental dynamics between wild and domesticated accessions for each species, we were able to characterize the key features of global protein pattern change corresponding to the domestication processes. Furthermore, we identified a number of proteins differentially expressed during fiber development and altered by domestication, as candidate proteins and metabolic processes for functional analyses that may yield insight into domestication and future cotton improvement.
+To understand the genome-wide expression changes associated with domestication, the fiber proteomes represented by four representative developmental stages were studied for two important crop species - *G. hirsutum* ([Hu et al. 2014][4]) and *G. barbadense* ([Hu et al. 2013][4]), using paired wild and domesticated accessions. By contrasting the fiber proteomes and developmental dynamics between wild and domesticated accessions for each species, we were able to characterize the key features of global protein pattern change corresponding to the domestication processes. Furthermore, we identified a number of proteins differentially expressed during fiber development and altered by domestication, as candidate proteins and metabolic processes for functional analyses that may yield insight into domestication and future cotton improvement.
 
 
 ---
