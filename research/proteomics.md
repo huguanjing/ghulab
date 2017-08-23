@@ -21,12 +21,12 @@ To understand the genome-wide expression changes associated with domestication, 
 ---
 ### Reference
 
-<a name="myfootnote1">1</a>: **Hu, G.**, N. L. Houston, D. Pathak, L. Schmidt, J. Thelen and J. F. Wendel. 2011. [Genomically biased accumulation of seed storage proteins in allopolyploid cotton](http://www.genetics.org/content/189/3/1103). _Genetics_ 189: 1103-1115. [PDF](files/Genetics2011.pdf)
+<a name="myfootnote1">1</a>. **Hu, G.**, N. L. Houston, D. Pathak, L. Schmidt, J. Thelen and J. F. Wendel. 2011. [Genomically biased accumulation of seed storage proteins in allopolyploid cotton](http://www.genetics.org/content/189/3/1103). _Genetics_ 189: 1103-1115. [PDF](files/Genetics2011.pdf)
  
-<a name="myfootnote2">2</a>: **Hu, G.**, J. Koh, M. J. Yoo, S. Chen, and J. F. Wendel. 2015. [Gene-expression novelty in allopolyploid cotton: a proteomic perspective](http://www.genetics.org/content/200/1/91.long). _Genetics_ 200: 91-104. [PDF](files/Genetics2015.pdf)    
+<a name="myfootnote2">2</a>. **Hu, G.**, J. Koh, M. J. Yoo, S. Chen, and J. F. Wendel. 2015. [Gene-expression novelty in allopolyploid cotton: a proteomic perspective](http://www.genetics.org/content/200/1/91.long). _Genetics_ 200: 91-104. [PDF](files/Genetics2015.pdf)    
 
-<a name="myfootnote3">3</a>: **Hu, G.**, J. Koh, M. J. Yoo, D. Pathak, S. Chen, and J. F. Wendel. 2014. [Proteomics profiling of fiber development and domestication in upland cotton (_Gossypium hirsutum_ L.)](https://link.springer.com/article/10.1007/s00425-014-2146-7). _Planta_ 240: 1237-1251. [PDF](files/Planta2014.pdf)    
+<a name="myfootnote3">3</a>. **Hu, G.**, J. Koh, M. J. Yoo, D. Pathak, S. Chen, and J. F. Wendel. 2014. [Proteomics profiling of fiber development and domestication in upland cotton (_Gossypium hirsutum_ L.)](https://link.springer.com/article/10.1007/s00425-014-2146-7). _Planta_ 240: 1237-1251. [PDF](files/Planta2014.pdf)    
 
-<a name="myfootnote4">4</a>: **Hu, G.**, J. Koh, M. Yoo, K. Grupp, S. Chen, and J. F. Wendel. 2013. [Proteomic profiling of developing cotton fibers from wild and domesticated Gossypium barbadense](http://onlinelibrary.wiley.com/doi/10.1111/nph.12381/abstract). _New Phytologist_ 200: 570–582 [PDF](files/Phytologist2013.pdf)
+<a name="myfootnote4">4</a>. **Hu, G.**, J. Koh, M. Yoo, K. Grupp, S. Chen, and J. F. Wendel. 2013. [Proteomic profiling of developing cotton fibers from wild and domesticated Gossypium barbadense](http://onlinelibrary.wiley.com/doi/10.1111/nph.12381/abstract). _New Phytologist_ 200: 570–582 [PDF](files/Phytologist2013.pdf)
 
 

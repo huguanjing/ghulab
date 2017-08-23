@@ -13,7 +13,6 @@ title: Dynamics of duplicated networks in polyploids
 </div>
 
 <a name="challenges"></a>
-
 ## Challenges and pitfalls in the use of partitioned gene counts for homoeologous gene expression and co-expression network analyses
 
 
