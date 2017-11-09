@@ -26,7 +26,7 @@ Click on links below to learn more about my research projects. For links to rese
 
 <p align="right">
   <br><br><br><br><br><br>
-  <a href="/research/nucleosomeEvo">Dynamics of duplicated networks in polyploids</a>
+  <a href="/research/nucleosomeEvo">Nucleosome dynamics and duplicated gene expression evolution</a>
   <br><br><br><br><br><br>
 </p>
 
