@@ -10,6 +10,8 @@ title: Pubications
 ----
 
 ## 2017
+**Hu, G** and J. F. Wendel. An analytical framework to understand regulatory novelty accompanying allopolyploidization. 2017. _BioRxiv_ [https://doi.org/10.1101/212092](https://www.biorxiv.org/content/early/2017/11/07/212092). [PDF](files/BioRxiv2017.pdf)
+
 **Hu, G.**, R. Hovav, C. Grover, A. Faigenboim-Doron, N. Kadmon, J. T. Page, J. Udall and J. F. Wendel. 2017. [Evolutionary conservation and divergence of gene coexpression networks in _Gossypium_ (cotton) seeds](https://academic.oup.com/gbe/article-lookup/doi/10.1093/gbe/evw280). _Genome Biology and Evolution_ 8 (12): 3765-3783. [PDF](files/GBE2017.pdf)
 
 ## 2016

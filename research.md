@@ -20,8 +20,15 @@ Click on links below to learn more about my research projects. For links to rese
 
 ---
    
-[Chromatin structure and nucleosome positioning in diploid and allopolyploid cotton](/research/chromatin.md): 
-differential nuclease sensitivity profiling of chromatin (MNase-seq) was used to characterize nuclesome positioning and chromatin accessibility landscapes in response to genome evolution and abiotic stresses.
+<p align="left">
+  <img align="left" src="/research/dns.png" width="500">
+</p>
+
+<p align="right">
+  <br><br><br><br><br>
+  <a href="/research/nucleosomeEvo">Dynamics of duplicated networks in polyploids</a>
+  <br><br><br><br><br>
+</p>
 
 ---
    
