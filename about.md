@@ -15,6 +15,7 @@ Please feel free to explore the website to learn more about my [research project
 
 ## News
 
+* **2018-1-13~17** I am attending the International Plant & Animal Genome XXVI conference in San Diego, and will give a talk int the "Polyploidy" workshop!
 * **2017-5-12~13** I am attending the NYC Global Reseach Iniative Workop "Plant Genome Evolution: From Genotype to Phenotype through Regulatory Networks", and give a talk titled "Dynamics of duplicated netoworks in polyploids".
 * **2017-4-23** Hellow World! My website is up.
 
