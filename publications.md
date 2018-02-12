@@ -9,8 +9,15 @@ title: Pubications
 
 ----
 
+## 2018
+Wendel, J. F., D. Lisch, **G. Hu**,  and A. S. Mason. 2018. [The long and short of doubling down: polyploidy, epigenetics, and the temporal dynamics of genome fractionation](). _Current Opinion in Genetics & Development_ 2018, 49:1–7. [PDF](files/CurrOpGenetDev2018.pdf)
+
+Core cis-element variation confers subgenome-biased expression of a transcription factor that functions in cotton fiber elongation
+_
+
+
 ## 2017
-Grover, C. E., M. A. Arick II, J. L. Conover, A. Thrash, **G. Hu**, W. S. Sanders, C-Y. Hsu, R. Zahra Naqvi, M. Farooq, X. Li, L. Gong, J. Mudge, T. Ramaraj, J. A. Udall, D. G. Peterson, and J. F. Wendel. 2017.  [Comparative genomics of an unusual biogeographic disjunction in the cotton tribe (*Gossypieae*) yields insights into genome downsizing](https://academic.oup.com/gbe/article/9/12/3328/4669810). Genome Biol. Evol. 9(12):3328–3344. [PDF](files/GBE2017kokia.pdf)
+Grover, C. E., M. A. Arick II, J. L. Conover, A. Thrash, **G. Hu**, W. S. Sanders, C-Y. Hsu, R. Zahra Naqvi, M. Farooq, X. Li, L. Gong, J. Mudge, T. Ramaraj, J. A. Udall, D. G. Peterson, and J. F. Wendel. 2017.  [Comparative genomics of an unusual biogeographic disjunction in the cotton tribe (*Gossypieae*) yields insights into genome downsizing](https://academic.oup.com/gbe/article/9/12/3328/4669810). _Genome Biol. Evol._ 9(12):3328–3344. [PDF](files/GBE2017kokia.pdf)
 
 **Hu, G** and J. F. Wendel. An analytical framework to understand regulatory novelty accompanying allopolyploidization. 2017. _BioRxiv_ [https://doi.org/10.1101/212092](https://www.biorxiv.org/content/early/2017/11/08/212092). [PDF](files/BioRxiv2017.pdf)
 
