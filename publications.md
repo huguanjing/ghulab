@@ -10,9 +10,9 @@ title: Pubications
 ----
 
 ## 2018
-Wendel, J. F., D. Lisch, **G. Hu**,  and A. S. Mason. 2018. [The long and short of doubling down: polyploidy, epigenetics, and the temporal dynamics of genome fractionation](). _Current Opinion in Genetics & Development_ 2018, 49:1–7. [PDF](files/CurrOpGenetDev2018.pdf)
+Wendel, J. F., D. Lisch, **G. Hu**,  and A. S. Mason. 2018. [The long and short of doubling down: polyploidy, epigenetics, and the temporal dynamics of genome fractionation](https://www.sciencedirect.com/science/article/pii/S0959437X17301557). _Current Opinion in Genetics & Development_ 2018, 49:1–7. [PDF](/files/CurrOpGenetDev2018.pdf)
 
-Core cis-element variation confers subgenome-biased expression of a transcription factor that functions in cotton fiber elongation
+Zhao, J. F. Cao, **G. Hu**, Z. W. Chen, L. Y. Wang, X. X. Shangguan, Ling-Jian Wang, Y. B. Mao, T. Z. Zhang, J. F. Wendel, X. Y. Chen. [Core cis-element variation confers subgenome-biased expression of a transcription factor that functions in cotton fiber elongation](http://onlinelibrary.wiley.com/doi/10.1111/nph.15063/full). _New Phytologist_ 2018, . [PDF](/files/NewPhytologist2018.pdf)
 _
 
 
