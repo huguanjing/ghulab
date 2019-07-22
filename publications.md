@@ -16,6 +16,8 @@ title: Pubications
 
 **Hu, G.**, P.Y. Lung, X. Sui, D. Vera, C.E. Grover, J. Conover, S.B. BeeJay, J. Zhang, H. Bass, and J.F. Wendel. Chromatin structure and evolution of duplicate gene expression. (In analysis and manuscript preparation; scheduled for submission by December) 
 
+\***Hu, G.**, \*C.E. Grover, M.A. Arick, M. Liu, D.G. Peterson, and J.F. Wendel. Challenges and pitfalls in the use of partitioned gene counts for homoeologous gene expression and co-expression network analyses. (In analysis and manuscript preparation; scheduled for submission by December) 
+
 Grover, C.E., M. Pan, E. Long, D. Yuan, **G. Hu**, L. Brase, D. Stelly, R.J. Schmitz, J.F. Wendel, and J.A. Udall. The *Gossypium* longicalyx genome and implications for cotton breeding. (In analysis and manuscript preparation; scheduled for submission in September)
 
 J.P. Gallagher, *G. Hu*, C.E. Grover, J.J. Jareczek, and J.F. Wendel. Effects of genome duplication and domestication on fiber gene coexpression networks of *Gossypium hirsutum* L. (In preparation; scheduled for submission in August)

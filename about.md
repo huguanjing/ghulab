@@ -14,6 +14,7 @@ As an evolutionary biologist, I am broadly interested the forces, patterns and p
 Please feel free to explore the website to learn more about my [research projects](research.md)!
 
 ## News
+* **2019-6-13** I am attending the International Conference on Polyploidy in Ghent, Belgium (11-14 June, 2019) and giving a talk on "Chromatin Structure and Evolution of Duplicated Gene Expression".
 * **2018-10-9** I am giving a seminar as a part of the ISU Fall 2018 Interdepartmental Genetics and Genomics “Workshop in Genetics” graduate course. The course topic is “Epigenetics and Epitranscriptomics: How do DNA and RNA modifications affect gene expression, development, and disease?”.  
 * **2018-9-1** My title officially changed from "Postdoc Research Associate" to "Assistant Scientist".
 * **2018-1-13~17** I am attending the International Plant & Animal Genome XXVI conference in San Diego, and will give a talk in the "Polyploidy" workshop!
