@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Postdoc Researcher
+title: Asistant Scientist
 subtitle: duplicated gene regulatory networks, genome evolution, plant adaptation and crop domestication
 image: /img/profile.jpg
 ---
