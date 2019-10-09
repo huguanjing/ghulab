@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Curriculum Vitae
+title: 
 image: /img/profile.jpg
 ---
 
@@ -14,15 +14,18 @@ Specific research areas currently include (1) the evolutionary dynamics of dupli
 
 Experimental approaches include classical genetics and molecular biology, functional genomics, and bioinformatics. 
 
+<div align="center">
+<a href="https://www.researchgate.net/profile/guanjing_hu/" target="_blank">ResearchGate</a> / <a href="http://scholar.google.com/citations?user=6PMcbdoAAAAJ" target="_blank">Google Scholar</a>
+</div>
 
-<!DOCTYPE html>
+
 <html>
   <head>
     <title>Title of the document</title>
   </head>
   <body>
-    <h1>PDF Example with iframe</h1>
-    <iframe src="files/C.V_Guanjing Hu.pdf" width="100%" height="500px">
+    <h1>Curriculum Vitae</h1>
+    <iframe src="https://huguanjing.github.io/files/C.V_Guanjing Hu.pdf" width="100%" height="500px">
     </iframe>
   </body>
 </html>
