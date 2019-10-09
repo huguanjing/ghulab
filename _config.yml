@@ -27,7 +27,7 @@ navbar-links:
   Research: "research"
   Publications: "publications"
   CV: "files/C.V_Guanjing Hu.pdf"
-  Blog: "blog.html"
+  Blog: "blog"
   # Resources:
   #  - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
   #  - Learn markdown: "http://www.markdowntutorial.com/"
