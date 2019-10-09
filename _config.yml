@@ -23,10 +23,11 @@ description: Academic website and blog
 
 # List of links in the navigation bar
 navbar-links:
+  About: "about"
   Research: "research"
   Publications: "publications"
   CV: "cv"
-  Blog: "blog"
+  Blog: ""
   # Resources:
   #  - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
   #  - Learn markdown: "http://www.markdowntutorial.com/"
