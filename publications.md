@@ -14,31 +14,35 @@ title: Publications
 
 **Hu, G.**, D. Yuan, C.E. Grover, Y. Dong, E. Miller, and J.G. Wendel. Whole-genome resequencing of a wild population of Guadeloupe cotton. (In analysis; scheduled for submission in early 2020)
 
-**Hu, G.**, P.Y. Lung, X. Sui, D. Vera, C.E. Grover, J. Conover, S.B. BeeJay, J. Zhang, H. Bass, and J.F. Wendel. Chromatin structure and evolution of duplicate gene expression. (In analysis and manuscript preparation; scheduled for submission by December 2019) 
+**Hu, G.**, P.Y. Lung, X. Sui, D. Vera, C.E. Grover, J. Conover, S.B. BeeJay, J. Zhang, H. Bass, and J.F. Wendel. Chromatin structure and evolution of duplicate gene expression. (In analysis and manuscript preparation; scheduled for submission in early 2020) 
 
-\***Hu, G.**, \*C.E. Grover, M.A. Arick, M. Liu, D.G. Peterson, and J.F. Wendel. Challenges and pitfalls in the use of partitioned gene counts for homoeologous gene expression and co-expression network analyses. (In preparation; scheduled for submission by December 2019) 
-
-Grover, C.E., M. Pan, E. Long, D. Yuan, **G. Hu**, L. Brase, D. Stelly, R.J. Schmitz, J.F. Wendel, and J.A. Udall. The *Gossypium* longicalyx genome and implications for cotton breeding. (In analysis and manuscript preparation; scheduled for submission by December 2019)
-
-J.P. Gallagher, **G. Hu**, C.E. Grover, J.J. Jareczek, and J.F. Wendel. Effects of genome duplication and domestication on fiber gene coexpression networks of *Gossypium hirsutum* L. (In preparation; scheduled for submission by December 2019)
 
 ## In press/review/revision
 
+J.P. Gallagher, **G. Hu**, C.E. Grover, J.J. Jareczek, and J.F. Wendel. Effects of genome duplication and domestication on fiber gene coexpression networks of *Gossypium hirsutum* L. *G3* (Submitted on Feb 13th 2020)
+
 **Hu, G.**, C.E. Grover, D. Yuan, J. Jareczek, Y. Dong, E. Miller, J.L. Conover, J.F. Wendel. "Evolution and diversity of the cotton genome" in *Cotton Precision Breeding* edited by M.M.U. Rahman, Y. Zafar and T.Z. Zhang. Springer Nature (in press; publication schedule delayed from Sep 30th 2019 to 2020 spring)
-
-\*Bao, Y., ***G. Hu**, C.E. Grover; J.L. Conover, D. Yuan and J.F. Wendel. Unraveling *cis* and *trans* regulatory evolution during cotton domestication. *Nature Communications* (in review, revision submitted on 10/1/2019)
-
-Dong, Y., **G. Hu**, J. Yu, S. Thu, C.E. Grover; S. Zhu, and J.F. Wendel. Salt tolerance in diploid and polyploid cotton *Gossypium* species. *The Plant Journal* (in review, revision submitted on 9/23/2019)
-
-Chen, J.Z., A. Sreedasyam, A. Ando, Q. Song, L. De Santiago, A. Hulse-Kemp, M. Ding, R.C. Kirkbride, J. Jenkins, C. Plott, J. Lovell, Y.M. Lin, R.Vaughn, B. Liu, L. Wen, S. Simpson, B.E. Scheffler, C.A. Saski, C.E. Grover, **G. Hu**, J. Conover, J. Carlson, S. Shu, L.B. Boston, M. Williams, D.G. Peterson, K. McGee, D.C. Jones, J.F. Wendel, D.M. Stelly, J. Grimwood, and J. Schmutz. Genomic insights into the origin, diversification and improvement of allotetraploid cottons. *Nature* (in review, revision submitted on 10/10/19)
 
 Girimurugan, S.B., X. Sui, **G. Hu**, Z.M. Turpin, H.W. Bass, J. Zhang. iSeg-Web: a web based implementation of iSeg, a genomic segmentation algorithm. *BMC Bioinformatics* (in review since 6/19/19)
 
-Grover, C.E., M. Yoo, M. Gore, D. Harker, R. Byers, A. Lipka, **G. Hu**, D. Yuan, J. Conover, J. Udall, A. Paterson, and J.F. Wendel. Genetic analysis of the transition from wild to domesticated cotton (*G. hirsutum*). *G3* (in revision)
+Chen, X.Y., J.F. Cao, B. Zhao, C.-C. Huang, Z.-W. Chen, T. Zhao, H.R. Liu, **G. Hu**, X.X. Shangguan, C.M. Shan, L.J. Wang, T.Z. Zhang, J.F. Wendel, and X.Y. Guan. The miR319-targeted *GhTCP4* regulates the transition from cell elongation to secondary cell wall synthesis in cotton fiber.  *Molecular Plant* (submitted on 11/20/2019)
 
-Chen, X.Y., J.F. Cao, B. Zhao, C.-C. Huang, Z.-W. Chen, T. Zhao, H.R. Liu, **G. Hu**, X.X. Shangguan, C.M. Shan, L.J. Wang, T.Z. Zhang, J.F. Wendel, and X.Y. Guan. The miR319-targeted *GhTCP4* regulates the transition from cell elongation to secondary cell wall synthesis in cotton fiber.  *The Plant Cell* (revision rejected on 10/2/2019)
+## 2020
+
+**Hu, G.**, C.E. Grover, M.A. Arick, M. Liu, D.G. Peterson, and J.F. Wendel. 2020. [Homoeologous gene expression and co-expression network analyses and evolutionary inference in allopolyploids](https://academic.oup.com/bib/advance-article-abstract/doi/10.1093/bib/bbaa035/5811916). *Briefings in Bioinformatics* doi: 10.1093/bib/bbaa035 [PDF](/files/BiB2020.pdf)
+
+Chen, J.Z., A. Sreedasyam, A. Ando, Q. Song, L. De Santiago, A. Hulse-Kemp, M. Ding, R.C. Kirkbride, J. Jenkins, C. Plott, J. Lovell, Y.M. Lin, R.Vaughn, B. Liu, L. Wen, S. Simpson, B.E. Scheffler, C.A. Saski, C.E. Grover, **G. Hu**, J. Conover, J. Carlson, S. Shu, L.B. Boston, M. Williams, D.G. Peterson, K. McGee, D.C. Jones, J.F. Wendel, D.M. Stelly, J. Grimwood, and J. Schmutz. 2020. Genomic insights into the origin, diversification and improvement of allotetraploid cottons. *Nature Genetics* (Accepted on Feb 20th 2020)
+
+Grover, C.E., M. Pan, E. Long, D. Yuan, **G. Hu**, L. Brase, D. Stelly, R.J. Schmitz, J.F. Wendel, and J.A. Udall. 2020. The *Gossypium* longicalyx genome and implications for cotton breeding. *G3* 10(5): 1457–1467 [PDF](/files/G3longicalyx2020.pdf)
+
+Grover, C.E., M. Yoo, M. Gore, D. Harker, R. Byers, A. Lipka, **G. Hu**, D. Yuan, J. Conover, J. Udall, A. Paterson, and J.F. Wendel. 2020. [Genetic analysis of the transition from wild to domesticated cotton (*G. hirsutum*)](https://www.g3journal.org/content/10/2/731). *G3* 10(2):731-754 [PDF](/files/G3_2020.pdf)
 
 ## 2019
+
+\*Bao, Y., \***G. Hu**, C.E. Grover; J.L. Conover, D. Yuan and J.F. Wendel. 2019. [Unraveling *cis* and *trans* regulatory evolution during cotton domestication](https://www.nature.com/articles/s41467-019-13386-w#Sec2) *Nature Communications* 10:5399 [PDF](/files/Ncomms2019.pdf)
+
+Dong, Y., **G. Hu**, J. Yu, S. Thu, C.E. Grover; S. Zhu, and J.F. Wendel. 2019. [Salt tolerance in diploid and polyploid cotton *Gossypium* species](https://onlinelibrary.wiley.com/doi/abs/10.1111/tpj.14580) *The Plant Journal* (First published: 23 October 2019) [PDF](/files/TPL2019.pdf)
+
 **Hu, G.** and J. F. Wendel. 2019. [*Cis*–*trans* controls and regulatory novelty accompanying allopolyploidization](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.15515) _New Phytologist_ 221(4):1691–1700. [PDF](/files/NewPhytologist2018hu.pdf)
 
 ## 2018
@@ -51,9 +55,9 @@ Wendel, J. F., D. Lisch, **G. Hu**,  and A. S. Mason. 2018. [The long and short 
 ## 2017
 Grover, C. E., M. A. Arick II, J. L. Conover, A. Thrash, **G. Hu**, W. S. Sanders, C-Y. Hsu, R. Zahra Naqvi, M. Farooq, X. Li, L. Gong, J. Mudge, T. Ramaraj, J. A. Udall, D. G. Peterson, and J. F. Wendel. 2017.  [Comparative genomics of an unusual biogeographic disjunction in the cotton tribe (*Gossypieae*) yields insights into genome downsizing](https://academic.oup.com/gbe/article/9/12/3328/4669810). _Genome Biol. Evol._ 9(12):3328–3344. [PDF](/files/GBE2017kokia.pdf)
 
-**Hu, G.**, R. Hovav, C. Grover, A. Faigenboim-Doron, N. Kadmon, J. T. Page, J. Udall and J. F. Wendel. 2017. [Evolutionary conservation and divergence of gene coexpression networks in _Gossypium_ (cotton) seeds](https://academic.oup.com/gbe/article-lookup/doi/10.1093/gbe/evw280). _Genome Biology and Evolution_ 8(12): 3765-3783. [PDF](/files/GBE2017.pdf)
-
 ## 2016
+**Hu, G.**, R. Hovav, C. Grover, A. Faigenboim-Doron, N. Kadmon, J. T. Page, J. Udall and J. F. Wendel. 2016. [Evolutionary conservation and divergence of gene coexpression networks in _Gossypium_ (cotton) seeds](https://academic.oup.com/gbe/article-lookup/doi/10.1093/gbe/evw280). _Genome Biology and Evolution_ 8(12): 3765-3783. [PDF](/files/GBE2017.pdf)
+
 Gallagher, J., C. Grover, **G. Hu**, and J. F. Wendel. 2016. [Insights into the ecology and evolution of polyploid plants through network analysis](http://onlinelibrary.wiley.com/doi/10.1111/mec.13626/abstract). _Molecular Ecology_ 25 (11): 2644-2660. [PDF](/files/MolEcol2016.pdf)
 
 ## 2015
