@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Guanjing Hu
+title: Hu, Guanjing (胡冠菁)
 
 # Short description of your site
 description: Academic website and blog
@@ -27,7 +27,7 @@ navbar-links:
   Research: "research"
   Publications: "publications"
   CV: "cv"
-  Blog: ""
+  Resources: "resources"
   # Resources:
   #  - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
   #  - Learn markdown: "http://www.markdowntutorial.com/"
@@ -47,7 +47,7 @@ navbar-links:
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Guanjing Hu (胡冠菁)
+  name: Guanjing Hu
   email: "huguanjing@gmail.com"
   #facebook: yourname  # eg. daattali
   github: huguanjing    # eg. daattali
