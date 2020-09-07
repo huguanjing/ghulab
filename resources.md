@@ -1,17 +1,14 @@
 ---
 layout: page
 title: Resources
-image: /img/profile.jpg
+subtitle: miscellaneous collections of websites, online classes, etc.
 ---
 
-Miscellaneous collections of websites, online classes, etc.
+- [Polyploidy Webinar](https://www.barkerlab.net/polyweb) - biweekly seminar about polyploidy
+- [Cotton storymap](https://arcg.is/nOzaD) - a pretty cool depiction of cotton and agriculture and globalization and GMOs and many other topics, all in one pretty nifty story map developed by a new assistant professor in anthropology at Purdue. He is open to contributions from others.
 
-[Cotton storymap](https://arcg.is/nOzaD) - a pretty cool depiction of cotton and agriculture and globalization and GMOs and many other topics, all in one pretty nifty story map developed by a new assistant professor in anthropology at Purdue. He is open to contributions from others.
+## Bioinformatics is learnable
 
-## Bioinformatics is easy
-
-## Phylogenetics is cool
-* [TimeTree](http://www.timetree.org/) - find out the divergence time between species
 
 
 
@@ -26,5 +23,9 @@ Miscellaneous collections of websites, online classes, etc.
 * [Scitable](https://www.nature.com/scitable/) - resources on genetics and cell biology from Nature; suitable for undergraduare and high schoole biology students
 
 
- 
 
+## MISC
+
+* [Nature Masterclasses](https://masterclasses.nature.com/) - Online courses offered by Nature on scientific writing, profession development, etc.
+* [Kaggle data sciencce courses](https://www.kaggle.com/learn/overview)
+* [TimeTree](http://www.timetree.org/) - find out the divergence time between species
