@@ -14,7 +14,7 @@ subtitle: Welcome to the G. Hu Lab
 <div class="responsive">
   <div class="img">
     <a target="_blank">
-      <img src="/img/profile.jpg" alt="Guanjing Hu" width="400" height="400" >
+      <img src="/img/profile.jpg" alt="Guanjing Hu" width="370" height="400" >
     </a>
   </div>
 </div>
@@ -23,6 +23,9 @@ subtitle: Welcome to the G. Hu Lab
 <b>Guanjing Hu (胡冠菁)</b> is a Principal Investigate in <a href="http://agis.caas.cn/en/"> the Agricultural Genomics Institute at Shenzhen, Chinese Academy of Agricultural Sciences.</a> Her <a href="/cv.md">CV</a>
 </div>
 
+<div class="clearfix"></div>
+
+------------
 
 <div class="responsive">
   <div class="img">
@@ -33,11 +36,8 @@ subtitle: Welcome to the G. Hu Lab
 </div>
 
 <div class="responsive">
-<b>Xianpeng Xiong</b> is a PostDoc Scholar working on cotton salt and Verticillium wilt resistance.</a> His
-<a href="/CV_xxiong.pdf">CV</a>
+<b>Xianpeng Xiong (熊显鹏)</b> is a Postdoc Researcher working on cotton salt and Verticillium wilt resistance.</a> His <a href="/CV_xxiong.pdf">CV</a>
 </div>
-
-
 
 <div class="clearfix"></div>
 

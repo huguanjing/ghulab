@@ -1,22 +1,26 @@
 ---
 layout: page
 title: Research
-image: /img/profile.jpg
+subtitle: Projects and interests in the G. Hu Lab
 ---
 
-My research projects make use of the cotton genus *Gossypium* as a model system to investigate the immediate and long-term consequences of polyploidization in plants at the cellular and molecular level.
+We use the cotton genus *Gossypium* as a model system to investigate the mechanistic underpinning of phenotypic evolution and crop domestication in plants.
 
 ![](/research/cottonModel.png)
 
-## Research area and approaches
+## Ongoinng Projects
 
-Specific research areas currently include (1) the evolutionary dynamics of duplicated gene regulatory networks that underlies cotton seed and fiber development and morphological diversity, and (2) the chromatin structure of allopolyploid cotton and how it regulates abiotic stress responses and environmental adaptation. 
+---
+   
+<p align="left">
+  <img align="left" src="/research/saltnet.png" width="500">
+</p>
 
-Experimental approaches include classical genetics and molecular biology, functional genomics, and bioinformatics. 
-
-## Projects
-
-Click on links below to learn more about my research projects. For links to research articles, visit my [Publications](publications.md) page.
+<p align="right">
+  <br><br><br><br><br><br>
+  <b>Unraveling cis-trans interactions and gene regulatory networks underlying salt tolerance in Gossypium</b> Goal: This project aims to provide: (1) an enhanced understanding of the phenotypic differences in salt stress adaption among cultivated and wild cotton relatives, thereby identifying elite germplasm and key traits that should be targeted in genetic studies and future breeding programs; (2) detailed and comparative insight into global gene expression and chromatin accessibility dynamics in salt-tolerant wild species relative to salt-sensitive G. hirsutum, thereby providing a detailed view of regulatory divergence and responsiveness related to salt stress; (3) a deep understanding of the cis and trans interactions involved in the regulatory circuits of stress-responsive regulatory gene networks, leading to the discovery of key regulators, thereby facilitating insight into stress biology and facilitating cotton breeding for improved salt tolerance.
+  <br><br><br><br><br><br>
+</p>
 
 ---
    
@@ -43,7 +47,8 @@ Click on links below to learn more about my research projects. For links to rese
 </p>
 
 ---
-
+## Archived Projects
+---
 <p align="left">
   <img align="left" src="/research/proteomics.png" width="500">
 </p>
@@ -52,7 +57,6 @@ Click on links below to learn more about my research projects. For links to rese
   <a href="/research/proteomics">Evolutionary proteomics of cotton</a>: this project was initiated as my <a href="http://lib.dr.iastate.edu/etd/13415/">phD dissertation</a> work, and has continued to focus on the integration of transcriptome and proteome data.
   <br><br><br><br>
 </p>
-
 ---
 
 <div>
