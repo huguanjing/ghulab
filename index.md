@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Guanjing Hu Lab
+title: The G. Hu Lab
 subtitle: Evolutionary Systems Biology and Plant Breeding
 ---
 
