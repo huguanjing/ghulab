@@ -1,0 +1,60 @@
+---
+layout: page
+title: Lab Members
+subtitle: Welcome to the G. Hu Lab
+---
+
+
+## [Join the lab](/positions)
+
+## Current Lab Members
+
+-----
+
+<div class="responsive">
+  <div class="img">
+    <a target="_blank">
+      <img src="/image/profile.jpg" alt="Guanjing Hu" width="300" height="400" >
+    </a>
+  </div>
+</div>
+
+<div class="responsive">
+<b>Guanjing Hu</b> is a Principal Investigate in <a href="http://agis.caas.cn/en/"> the Agricultural Genomics Institute at Shenzhen, Chinese Academy of Agricultural Sciences. Her </a>
+<a href="/cv.md">CV</a>
+</div>
+
+
+
+
+
+<div class="clearfix"></div>
+
+------------
+
+<div class="responsive">
+  <div class="img">
+    <a target="_blank">
+      <img src="https://" alt="Gen Xu" width="300" height="400">
+    </a>
+  </div>
+</div>
+
+<div class="responsive">
+<b>Xianpeng Xiong</b> is a PostDoc Scholar working on cotton salt and Verticillium wilt resistance. His </a>
+<a href="">CV</a>
+</div>
+
+
+
+
+
+<div class="clearfix"></div>
+
+------------
+
+-------------------------
+
+## Lab Alumni
+
+- 
