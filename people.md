@@ -14,14 +14,13 @@ subtitle: Welcome to the G. Hu Lab
 <div class="responsive">
   <div class="img">
     <a target="_blank">
-      <img src="/image/profile.jpg" alt="Guanjing Hu" width="300" height="400" >
+      <img src="/img/profile.jpg" alt="Guanjing Hu" width="300" height="400" >
     </a>
   </div>
 </div>
 
 <div class="responsive">
-<b>Guanjing Hu</b> is a Principal Investigate in <a href="http://agis.caas.cn/en/"> the Agricultural Genomics Institute at Shenzhen, Chinese Academy of Agricultural Sciences. Her </a>
-<a href="/cv.md">CV</a>
+<b>Guanjing Hu (胡冠菁)</b> is a Principal Investigate in <a href="http://agis.caas.cn/en/"> the Agricultural Genomics Institute at Shenzhen, Chinese Academy of Agricultural Sciences.</a> Her <a href="/cv.md">CV</a>
 </div>
 
 
@@ -35,7 +34,7 @@ subtitle: Welcome to the G. Hu Lab
 <div class="responsive">
   <div class="img">
     <a target="_blank">
-      <img src="https://" alt="Gen Xu" width="300" height="400">
+      <img src="https://" alt="Xianpeng Xiong" width="300" height="400">
     </a>
   </div>
 </div>
