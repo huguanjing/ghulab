@@ -5,7 +5,7 @@
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
 # "http://huguanjing.github.io"
-url: "http://ghulab.github.io"
+url: "http://huguanjing.github.io/ghulab"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -24,16 +24,20 @@ description: Academic website and blog
 
 # List of links in the navigation bar
 navbar-links:
-  About: "about"
+  People: "people"
   Research: "research"
   Publications: "publications"
-  CV: "cv"
-  Resources: "resources"
+  A.A.: "jc"
+  News: "news"
+  Resources:
+     - Lab Blog: "labdoc/index"
+     - Misc: "resources"
   # Resources:
   #  - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
   #  - Learn markdown: "http://www.markdowntutorial.com/"
   #  - GitHub Pages: "https://pages.github.com/"
   # Author's home: "http://deanattali.com"
+nav-search: "search"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
