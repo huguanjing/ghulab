@@ -5,8 +5,9 @@ image: /img/profile.jpg
 ---
 
 <div align="center">
-<a href="https://www.researchgate.net/profile/guanjing_hu/" target="_blank">ResearchGate</a> / <a href="http://scholar.google.com/citations?user=6PMcbdoAAAAJ" target="_blank">Google Scholar</a>
+<a href="https://www.researchgate.net/profile/Guanjing-Hu" target="_blank">ResearchGate</a> / <a href="http://scholar.google.com/citations?user=6PMcbdoAAAAJ" target="_blank">Google Scholar</a>
 </div>
+
 
 ----
 \* Co-first author(s) indicated with asterisks
@@ -24,9 +25,9 @@ image: /img/profile.jpg
 
 Girimurugan, S.B., X. Sui, **G. Hu**, Z.M. Turpin, H.W. Bass, J. Zhang. iSeg-Web: a web based implementation of iSeg, a genomic segmentation algorithm. *BMC Bioinformatics* (in review since 6/19/19)
 
-Grover, C., D. Yuan, M. Arick, E.R. Miller, **G. Hu**, D. Peterson, J.F. Wendel, and J. Udall. 2021 [The Gossypium stocksii genome as a novel resource for cotton improvement](). *G3* (submitted on 02/23/21).
-
 ## 2021
+Grover, C., D. Yuan, M. Arick, E.R. Miller, **G. Hu**, D. Peterson, J.F. Wendel, and J. Udall. 2021 [The Gossypium stocksii genome as a novel resource for cotton improvement](https://academic.oup.com/g3journal/advance-article/doi/10.1093/g3journal/jkab125/6237488). *G3* jkab125 [PDF](/files/G3Egenome2021.pdf)
+
 **Hu, G.**, C.E. Grover, D. Yuan, J. Jareczek, Y. Dong, E. Miller, J.L. Conover, J.F. Wendel. 2021. "Evolution and diversity of the cotton genome" in [*Cotton Precision Breeding*](https://www.springer.com/gp/book/9783030645038#aboutBook) edited by M.U. Rahman, Y. Zafar and T.Z. Zhang. Springer International Publishing. [Book Chapter] [PDF]()
 
 Yuan, D., C.E. Grover, **G. Hu**, M. Pan, E.R. Miller, J.L. Conover, S.P. Hunt, J.A. Udall, and  J.F. Wendel. 2021. [Parallel and intertwining threads of domestication in allopolyploid cotton](https://onlinelibrary.wiley.com/doi/10.1002/advs.202003634). *Adv Sci* adv.202003624 [PDF](/files/AdvSci2021.pdf)
@@ -99,5 +100,4 @@ Hawkins, J. S., **G. Hu**, R. A. Rapp, J. L. Grafenberg, and J. F. Wendel. 2008.
 
 ## 2007
 **Hu, G.**, L. Li, D. Li, C. Liu, S. Wei, Y. Liang and X. Su. 2007. [Protein preparation and preliminary X-ray crystallorgraphic analysis of a putative glucosamine 6-phosphate deaminase from _Streptococcus mutants_](http://scripts.iucr.org/cgi-bin/paper?S1744309107040304). _Acta Crystallographica Section F_ 63: 809-811. [PDF](/files/ActaCryst2007.pdf)
-
 
