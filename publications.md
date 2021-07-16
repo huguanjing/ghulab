@@ -28,7 +28,7 @@ Girimurugan, S.B., X. Sui, **G. Hu**, Z.M. Turpin, H.W. Bass, J. Zhang. iSeg-Web
 ## 2021
 Grover, C., D. Yuan, M. Arick, E.R. Miller, **G. Hu**, D. Peterson, J.F. Wendel, and J. Udall. 2021 [The Gossypium stocksii genome as a novel resource for cotton improvement](https://academic.oup.com/g3journal/advance-article/doi/10.1093/g3journal/jkab125/6237488). *G3* jkab125 [PDF](/files/G3Egenome2021.pdf)
 
-**Hu, G.**, C.E. Grover, D. Yuan, J. Jareczek, Y. Dong, E. Miller, J.L. Conover, J.F. Wendel. 2021. "Evolution and diversity of the cotton genome" in [*Cotton Precision Breeding*](https://www.springer.com/gp/book/9783030645038#aboutBook) edited by M.U. Rahman, Y. Zafar and T.Z. Zhang. Springer International Publishing. [Book Chapter] [PDF]()
+**Hu, G.**, C.E. Grover, D. Yuan, J. Jareczek, Y. Dong, E. Miller, J.L. Conover, J.F. Wendel. 2021. "Evolution and diversity of the cotton genome" in [*Cotton Precision Breeding*](https://www.springer.com/gp/book/9783030645038#aboutBook) edited by M.U. Rahman, Y. Zafar and T.Z. Zhang. Springer International Publishing. [Book Chapter] [PDF](/files/chapter2021.pdf)
 
 Yuan, D., C.E. Grover, **G. Hu**, M. Pan, E.R. Miller, J.L. Conover, S.P. Hunt, J.A. Udall, and  J.F. Wendel. 2021. [Parallel and intertwining threads of domestication in allopolyploid cotton](https://onlinelibrary.wiley.com/doi/10.1002/advs.202003634). *Adv Sci* adv.202003624 [PDF](/files/AdvSci2021.pdf)
 
