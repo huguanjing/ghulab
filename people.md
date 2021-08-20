@@ -27,6 +27,8 @@ subtitle: Welcome to the G. Hu Lab
 
 ## Postdoc Researcher
 
+-----
+
 <div class="class1">
   <div class="img">
     <a target="_blank">
@@ -34,10 +36,13 @@ subtitle: Welcome to the G. Hu Lab
     </a>
   </div>
 <b>Xianpeng Xiong (熊显鹏)</b> Him/His
-<br>Ph.D., Shihezi University, China
+<br>Ph.D., Shihezi University, China <a href="/CV_xxiong.pdf">CV</a>
 <br>Research Interests: cotton salt tolerance and Verticillium wilt resistance
 <br>Email: xiongxianpeng at caas.cn
 </div>
+
+
+
 
 <div class="class2">
   <div class="img">
@@ -46,9 +51,9 @@ subtitle: Welcome to the G. Hu Lab
     </a>
   </div>
 <b>De Zhu (祝德)</b> Him/His
-<br>Ph.D., Hazhong Agricultural University, China
+<br>Ph.D., Hazhong Agricultural University, China <a href="/CV_dzhu.pdf">CV</a>
 <br>Research Interests: Genetics and Bioinformatics
-<br>zhude at caas.cn
+<br>Email: zhude at caas.cn
 </div>
 
 <div class="clearfix"></div>
@@ -57,38 +62,88 @@ subtitle: Welcome to the G. Hu Lab
 
 ## Research Assistant
 
-## Graduate Student
-
-
-<div class="responsive">
+-----
+<div class="class1">
   <div class="img">
     <a target="_blank">
-      <img src="/img/xxp.jpg" alt="Xianpeng Xiong" width="300" height="400">
+      <img src="/img/wqq.jpg" alt="Qianqian Wu" width="300" height="400">
     </a>
   </div>
+<b>Qianqian Wu (吴倩倩)</b> She/Her
+<br>M.Sc., Nanjing Agricultural University, China
+<br>Research Interests: mechanism of translation regulation
+<br>Email: wuqianqianchina at 163.com
 </div>
 
-<div class="responsive">
-<b>Xianpeng Xiong (熊显鹏)</b> is a Postdoc Researcher working on cotton salt and Verticillium wilt resistance. His <a href="/CV_xxiong.pdf">CV</a>
-</div>
 
-<div class="responsive">
+
+
+<div class="class2">
   <div class="img">
     <a target="_blank">
-      <img src="/img/zd.jpg" alt="De Zhu" width="400" height="300">
+      <img src="/img/zll.jpg" alt="Lulu Zhao" width="400" height="300">
     </a>
   </div>
+<b>Lulu Zhao (赵露露)</b> She/Her
+<br>M.Sc., Shanxi normal University, China
+<br>Research Interests: Plant anatomy
+<br>Email:  zhaolulu1995 at yeah.net
 </div>
 
-<div class="responsive">
-<b>De Zhu (祝德)</b> is a Postdoc Researcher working on cottonseed oil accumulation and regulatory evolution. His <a href="/CV_dzhu.pdf">CV</a>
+<div class="clearfix"></div>
+
+<div class="class1">
+  <div class="img">
+    <a target="_blank">
+      <img src="/img/zy.jpg" alt="Ya Zhang" width="300" height="400">
+    </a>
+  </div>
+<b>Ya Zhang (张雅)</b> She/Her
+<br>M.Sc., Fujian Agriculture and Forestry University, China
+<br>Research Interests: Cotton evolution and Bioinformatics
+<br>Email: zhangya19 at yeah.net
 </div>
 
 <div class="clearfix"></div>
 
 ------------
 
--------------------------
+
+## Graduate Student
+
+
+-----
+
+<div class="class1">
+  <div class="img">
+    <a target="_blank">
+      <img src="/img/lx.jpg" alt="Xuan Liu" width="300" height="400">
+    </a>
+  </div>
+<b>Xuan Liu (刘璇)</b> She/Her
+<br>M.Sc., Nanjing Agricultural University, China
+<br>Research Interests: Biology and Medicine
+<br>Email: 2607657252 at qq.com
+</div>
+
+
+
+
+<div class="class2">
+  <div class="img">
+    <a target="_blank">
+      <img src="/img/swt.jpg" alt="Wen" width="400" height="300">
+    </a>
+  </div>
+<b>Wenting Song (宋汶亭)</b> She/Her
+<br>Master student, Zhengzhou University, China
+<br>Research Interests: Biology and Medicine
+<br>Email:  songwentingu at 163.com
+</div>
+
+<div class="clearfix"></div>
+
+------------
 
 
 ## Lab Alumni
