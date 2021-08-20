@@ -68,7 +68,6 @@ subtitle: Welcome to the G. Hu Lab
 <div style="display:block; width:100%;">
   <div style="width:48%; float: left; display: inline-block;">
 
-    <div class="class1">
     <div class="img">
     <a target="_blank">
       <img src="/img/wqq.jpg" alt="Qianqian Wu" width="380" height="380">
@@ -86,7 +85,6 @@ subtitle: Welcome to the G. Hu Lab
   
   <div style="width:48%; float: left; display: inline-block;">
  
-    <div class="class2">
     <div class="img">
      <a target="_blank">
        <img src="/img/zll.jpeg" alt="Lulu Zhao" width="400" height="300">
@@ -105,7 +103,6 @@ subtitle: Welcome to the G. Hu Lab
 <div style="display:block; width:100%;">
   <div style="width:48%; float: left; display: inline-block;">
 
-    <div class="class1">
     <div class="img">
       <a target="_blank">
         <img src="/img/zy.jpg" alt="Ya Zhang" width="300" height="400">
@@ -129,33 +126,41 @@ subtitle: Welcome to the G. Hu Lab
 
 -----
 
-
 ## Graduate Student
-<div class="class1">
-  <div class="img">
+<div style="display:block; width:100%;">
+  <div style="width:48%; float: left; display: inline-block;">
+
+    <div class="img">
     <a target="_blank">
       <img src="/img/lx.jpg" alt="Xuan Liu" width="400" height="300">
     </a>
+    </div>
+    <b>Xuan Liu (刘璇)</b> She/Her
+    <br>Master student, Zhengzhou University, China
+    <br>Research Interests: Biology and Medicine
+    <br>Email: 2607657252 at qq.com
+  
   </div>
-<b>Xuan Liu (刘璇)</b> She/Her
-<br>Master student, Zhengzhou University, China
-<br>Research Interests: Biology and Medicine
-<br>Email: 2607657252 at qq.com
-</div>
-
-
-
-
-<div class="class2">
-  <div class="img">
-    <a target="_blank">
-      <img src="/img/swt.jpg" alt="Wen" width="300" height="400">
-    </a>
+  
+  <div style="width:3%; float: left; display: inline-block;">
   </div>
-<b>Wenting Song (宋汶亭)</b> She/Her
-<br>Master student, Zhengzhou University, China
-<br>Research Interests: Biology and Medicine
-<br>Email:  songwentingu at 163.com
+  
+  <div style="width:48%; float: left; display: inline-block;">
+ 
+    <br>
+    <br>
+    <br>
+    <div class="img">
+        <a target="_blank">
+          <img src="/img/swt.jpg" alt="Wen" width="300" height="400">
+        </a>
+      </div>
+    <b>Wenting Song (宋汶亭)</b> She/Her
+    <br>Master student, Zhengzhou University, China
+    <br>Research Interests: Biology and Medicine
+    <br>Email:  songwentingu at 163.com
+ 
+  </div>
 </div>
 
 <div class="clearfix"></div>
