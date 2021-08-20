@@ -25,7 +25,7 @@ subtitle: Welcome to the G. Hu Lab
 
 ## Postdoc Researcher
 <div style="display:block; width:100%;">
-  <div style="width:50%; float: left; display: inline-block;">
+  <div style="width:48%; float: left; display: inline-block;">
 
     <div class="img">
     <a target="_blank">
@@ -38,7 +38,11 @@ subtitle: Welcome to the G. Hu Lab
     <br>Email: xiongxianpeng at caas.cn
     
   </div>
-  <div style="width:50%; float: left; display: inline-block;">
+  
+  <div style="width:3%; float: left; display: inline-block;">
+  </div>
+  
+  <div style="width:48%; float: left; display: inline-block;">
  
     <br>
     <br>
