@@ -44,9 +44,11 @@ subtitle: Welcome to the G. Hu Lab
   
   <div style="width:48%; float: left; display: inline-block;">
  
+     <br>
+     <br>
      <div class="img">
        <a target="_blank">
-         <img src="/img/zd.jpg" alt="De Zhu" width="430" height="320">
+         <img src="/img/zd.jpg" alt="De Zhu" width="430" height="300">
        </a>
      </div>
      <b>De Zhu (祝德)</b> Him/His
@@ -94,7 +96,7 @@ subtitle: Welcome to the G. Hu Lab
  
   </div>
 </div>
-
+<div class="clearfix"></div>
 ---
 
 <div style="display:block; width:100%;">
@@ -123,7 +125,7 @@ subtitle: Welcome to the G. Hu Lab
 
     <div class="img">
     <a target="_blank">
-      <img src="/img/lx.jpg" alt="Xuan Liu" width="430" height="320">
+      <img src="/img/lx.jpg" alt="Xuan Liu" width="320" height="270">
     </a>
     </div>
     <b>Xuan Liu (刘璇)</b> She/Her
