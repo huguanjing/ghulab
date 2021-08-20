@@ -29,7 +29,7 @@ subtitle: Welcome to the G. Hu Lab
 
     <div class="img">
     <a target="_blank">
-    <img src="/img/xxp.jpg" alt="Xianpeng Xiong" width="270" height="360">
+    <img src="/img/xxp.jpg" alt="Xianpeng Xiong">
     </a>
     </div>
     <b>Xianpeng Xiong (熊显鹏)</b> Him/His
@@ -46,7 +46,7 @@ subtitle: Welcome to the G. Hu Lab
  
      <div class="img">
        <a target="_blank">
-         <img src="/img/zd.jpg" alt="De Zhu" height="360">
+         <img src="/img/zd.jpg" alt="De Zhu">
        </a>
      </div>
      <b>De Zhu (祝德)</b> Him/His
