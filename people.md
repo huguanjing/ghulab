@@ -29,7 +29,7 @@ subtitle: Welcome to the G. Hu Lab
 
     <div class="img">
     <a target="_blank">
-    <img src="/img/xxp.jpg" alt="Xianpeng Xiong">
+    <img src="/img/xxp.jpg" alt="Xianpeng Xiong" width="240" height="320">
     </a>
     </div>
     <b>Xianpeng Xiong (熊显鹏)</b> Him/His
@@ -46,7 +46,7 @@ subtitle: Welcome to the G. Hu Lab
  
      <div class="img">
        <a target="_blank">
-         <img src="/img/zd.jpg" alt="De Zhu">
+         <img src="/img/zd.jpg" alt="De Zhu" width="430" height="320">
        </a>
      </div>
      <b>De Zhu (祝德)</b> Him/His
@@ -67,7 +67,7 @@ subtitle: Welcome to the G. Hu Lab
 
     <div class="img">
     <a target="_blank">
-      <img src="/img/wqq.jpg" alt="Qianqian Wu" width="360" height="360">
+      <img src="/img/wqq.jpg" alt="Qianqian Wu" width="320" height="320">
     </a>
     </div>
     <b>Qianqian Wu (吴倩倩)</b> She/Her
@@ -84,7 +84,7 @@ subtitle: Welcome to the G. Hu Lab
  
     <div class="img">
      <a target="_blank">
-       <img src="/img/zll.jpeg" alt="Lulu Zhao" width="480" height="360">
+       <img src="/img/zll.jpeg" alt="Lulu Zhao" width="430" height="320">
      </a>
     </div>
     <b>Lulu Zhao (赵露露)</b> She/Her
@@ -102,7 +102,7 @@ subtitle: Welcome to the G. Hu Lab
 
     <div class="img">
       <a target="_blank">
-        <img src="/img/zy.jpg" alt="Ya Zhang" width="270" height="360">
+        <img src="/img/zy.jpg" alt="Ya Zhang" width="240" height="320">
       </a>
     </div>
     <b>Ya Zhang (张雅)</b> She/Her
@@ -110,12 +110,6 @@ subtitle: Welcome to the G. Hu Lab
     <br>Research Interests: Cotton evolution and Bioinformatics
     <br>Email: zhangya19 at yeah.net
   
-  </div>
-  
-  <div style="width:3%; float: left; display: inline-block;">
-  </div>
-  
-  <div style="width:48%; float: left; display: inline-block;">
   </div>
 </div>
 
@@ -129,7 +123,7 @@ subtitle: Welcome to the G. Hu Lab
 
     <div class="img">
     <a target="_blank">
-      <img src="/img/lx.jpg" alt="Xuan Liu" width="480" height="360">
+      <img src="/img/lx.jpg" alt="Xuan Liu" width="430" height="320">
     </a>
     </div>
     <b>Xuan Liu (刘璇)</b> She/Her
@@ -146,7 +140,7 @@ subtitle: Welcome to the G. Hu Lab
 
     <div class="img">
         <a target="_blank">
-          <img src="/img/swt.jpg" alt="Wen" width="270" height="360">
+          <img src="/img/swt.jpg" alt="Wen" width="240" height="320">
         </a>
       </div>
     <b>Wenting Song (宋汶亭)</b> She/Her
