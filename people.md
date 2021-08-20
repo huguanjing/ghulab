@@ -22,7 +22,7 @@ subtitle: Welcome to the G. Hu Lab
 <div class="responsive">
 <b>Guanjing Hu (胡冠菁), Ph.D.</b> She/Her
 <br><a href="http://cri.caas.cn/en/aboutccri/index.htm">ICR</a>&<a href="http://agis.caas.cn/en/research/principalinvestigator/253199.htm">AGIS</a> at <a href="http://www.caas.cn/en/">CAAS, China</a>
-<br>Find me at <a href="https://www.researchgate.net/profile/Guanjing-Hu>ResearchGate</a> | <a href="https://scholar.google.com/citations?user=6PMcbdoAAAAJ&hl=en>Google Scholar</a> | <a href="https://orcid.org/0000-0001-8552-7394">ORCID</a> 
+<br>Find me at <a href="https://www.researchgate.net/profile/Guanjing-Hu">ResearchGate</a> | <a href="https://scholar.google.com/citations?user=6PMcbdoAAAAJ&hl=en">Google Scholar</a> | <a href="https://orcid.org/0000-0001-8552-7394">ORCID</a> 
 </div>
 
 <div class="responsive">
