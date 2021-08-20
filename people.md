@@ -70,7 +70,7 @@ subtitle: Welcome to the G. Hu Lab
 
     <div class="img">
     <a target="_blank">
-      <img src="/img/wqq.jpg" alt="Qianqian Wu" width="380" height="380">
+      <img src="/img/wqq.jpg" alt="Qianqian Wu" width="300" height="300">
     </a>
     </div>
     <b>Qianqian Wu (吴倩倩)</b> She/Her
@@ -98,7 +98,9 @@ subtitle: Welcome to the G. Hu Lab
   </div>
 </div>
 
-<div class="clearfix"></div>
+<div class="clearfix">
+<b>
+</div>
 
 <div style="display:block; width:100%;">
   <div style="width:48%; float: left; display: inline-block;">
@@ -130,6 +132,9 @@ subtitle: Welcome to the G. Hu Lab
 <div style="display:block; width:100%;">
   <div style="width:48%; float: left; display: inline-block;">
 
+    <br>
+    <br>
+    <br>
     <div class="img">
     <a target="_blank">
       <img src="/img/lx.jpg" alt="Xuan Liu" width="400" height="300">
@@ -146,10 +151,7 @@ subtitle: Welcome to the G. Hu Lab
   </div>
   
   <div style="width:48%; float: left; display: inline-block;">
- 
-    <br>
-    <br>
-    <br>
+
     <div class="img">
         <a target="_blank">
           <img src="/img/swt.jpg" alt="Wen" width="300" height="400">
@@ -165,7 +167,7 @@ subtitle: Welcome to the G. Hu Lab
 
 <div class="clearfix"></div>
 
-------------
+---
 
 
 ## Lab Alumni
