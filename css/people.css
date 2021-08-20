@@ -33,7 +33,15 @@ div.desc {
     box-sizing: border-box;
 }
 
-.responsive {
+.responsive,
+.class1,
+.class2 {
+  width: 49.9%;
+  float: left;
+  height: 100px;
+}
+
+.responsiveO {
     padding: 0 6px;
     float: left;
     width: 24.99999%;
