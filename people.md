@@ -21,10 +21,9 @@ subtitle: Welcome to the G. Hu Lab
 
 <div class="responsive">
 <b>Guanjing Hu (胡冠菁), Ph.D.</b> She/Her
-Institute of Cotton Research, Chinese Academy of Agricultural Sciences, Anyang, China
-Agricultural Genomics Institute at Shenzhen, Chinese Academy of Agricultural Sciences, Shenzhen, China
-http://agis.caas.cn/en/research/principalinvestigator/253199.htm
-<a href="/cv.md">CV</a>
+<br><a href="http://cri.caas.cn/en/aboutccri/index.htm">Institute of Cotton Research, Chinese Academy of Agricultural Sciences, Anyang, China</a>
+<br><a href="http://agis.caas.cn/en/research/principalinvestigator/253199.htm">Agricultural Genomics Institute at Shenzhen, Chinese Academy of Agricultural Sciences, Shenzhen, China</a>
+<a href="/cv">CV</a>
 </div>
 
 <div class="clearfix"></div>
