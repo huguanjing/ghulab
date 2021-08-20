@@ -20,7 +20,11 @@ subtitle: Welcome to the G. Hu Lab
 </div>
 
 <div class="responsive">
-<b>Guanjing Hu (胡冠菁)</b> is a Principal Investigate in <a href="http://agis.caas.cn/en/"> the Agricultural Genomics Institute at Shenzhen, Chinese Academy of Agricultural Sciences.</a> Her <a href="/cv.md">CV</a>
+<b>Guanjing Hu (胡冠菁), Ph.D.</b> She/Her
+Institute of Cotton Research, Chinese Academy of Agricultural Sciences, Anyang, China
+Agricultural Genomics Institute at Shenzhen, Chinese Academy of Agricultural Sciences, Shenzhen, China
+http://agis.caas.cn/en/research/principalinvestigator/253199.htm
+<a href="/cv.md">CV</a>
 </div>
 
 <div class="clearfix"></div>
