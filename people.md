@@ -61,6 +61,45 @@ subtitle: Welcome to the G. Hu Lab
 -----
 
 ## Research Assistant
+<div style="display:block; width:100%;">
+  <div style="width:48%; float: left; display: inline-block;">
+
+    <div class="class1">
+    <div class="img">
+    <a target="_blank">
+      <img src="/img/wqq.jpg" alt="Qianqian Wu" width="400" height="400">
+    </a>
+    </div>
+    <b>Qianqian Wu (吴倩倩)</b> She/Her
+    <br>M.Sc., Nanjing Agricultural University, China
+    <br>Research Interests: mechanism of translation regulation
+    <br>Email: wuqianqianchina at 163.com
+
+  </div>
+  
+  <div style="width:4%; float: left; display: inline-block;">
+  </div>
+  
+  <div style="width:48%; float: left; display: inline-block;">
+ 
+    <div class="class2">
+    <div class="img">
+     <a target="_blank">
+       <img src="/img/zll.jpeg" alt="Lulu Zhao" width="400" height="300">
+     </a>
+    </div>
+    <b>Lulu Zhao (赵露露)</b> She/Her
+    <br>M.Sc., Shanxi normal University, China
+    <br>Research Interests: Plant anatomy
+    <br>Email:  zhaolulu1995 at yeah.net
+ 
+  </div>
+</div>
+
+<div class="clearfix"></div>
+
+-----
+
 <div class="class1">
   <div class="img">
     <a target="_blank">
