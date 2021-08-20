@@ -46,7 +46,7 @@ subtitle: Welcome to the G. Hu Lab
  
      <div class="img">
        <a target="_blank">
-         <img src="/img/zd.jpg" alt="De Zhu" width="480" height="360">
+         <img src="/img/zd.jpg" alt="De Zhu" height="360">
        </a>
      </div>
      <b>De Zhu (祝德)</b> Him/His
