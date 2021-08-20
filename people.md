@@ -8,9 +8,6 @@ subtitle: Welcome to the G. Hu Lab
 ## [Join the lab](/positions)
 
 ## Principal Investigator
-
------
-
 <div class="responsive">
   <div class="img">
     <a target="_blank">
@@ -24,11 +21,9 @@ subtitle: Welcome to the G. Hu Lab
 
 <div class="clearfix"></div>
 
-
-## Postdoc Researcher
-
 -----
 
+## Postdoc Researcher
 <div class="class1">
   <div class="img">
     <a target="_blank">
@@ -58,15 +53,13 @@ subtitle: Welcome to the G. Hu Lab
 
 <div class="clearfix"></div>
 
-------------
+-----
 
 ## Research Assistant
-
------
 <div class="class1">
   <div class="img">
     <a target="_blank">
-      <img src="/img/wqq.jpg" alt="Qianqian Wu" width="300" height="400">
+      <img src="/img/wqq.jpg" alt="Qianqian Wu" width="400" height="400">
     </a>
   </div>
 <b>Qianqian Wu (吴倩倩)</b> She/Her
@@ -81,7 +74,7 @@ subtitle: Welcome to the G. Hu Lab
 <div class="class2">
   <div class="img">
     <a target="_blank">
-      <img src="/img/zll.jpg" alt="Lulu Zhao" width="400" height="300">
+      <img src="/img/zll.jpeg" alt="Lulu Zhao" width="400" height="300">
     </a>
   </div>
 <b>Lulu Zhao (赵露露)</b> She/Her
@@ -106,18 +99,14 @@ subtitle: Welcome to the G. Hu Lab
 
 <div class="clearfix"></div>
 
-------------
+-----
 
 
 ## Graduate Student
-
-
------
-
 <div class="class1">
   <div class="img">
     <a target="_blank">
-      <img src="/img/lx.jpg" alt="Xuan Liu" width="300" height="400">
+      <img src="/img/lx.jpg" alt="Xuan Liu" width="400" height="300">
     </a>
   </div>
 <b>Xuan Liu (刘璇)</b> She/Her
@@ -132,7 +121,7 @@ subtitle: Welcome to the G. Hu Lab
 <div class="class2">
   <div class="img">
     <a target="_blank">
-      <img src="/img/swt.jpg" alt="Wen" width="400" height="300">
+      <img src="/img/swt.jpg" alt="Wen" width="300" height="400">
     </a>
   </div>
 <b>Wenting Song (宋汶亭)</b> She/Her
