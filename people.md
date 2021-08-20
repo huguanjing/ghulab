@@ -21,9 +21,20 @@ subtitle: Welcome to the G. Hu Lab
 
 <div class="responsive">
 <b>Guanjing Hu (胡冠菁), Ph.D.</b> She/Her
-<br><a href="http://cri.caas.cn/en/aboutccri/index.htm">Institute of Cotton Research, Chinese Academy of Agricultural Sciences, Anyang, China</a>
-<br><a href="http://agis.caas.cn/en/research/principalinvestigator/253199.htm">Agricultural Genomics Institute at Shenzhen, Chinese Academy of Agricultural Sciences, Shenzhen, China</a>
-<a href="/cv">CV</a>
+<br><a href="http://cri.caas.cn/en/aboutccri/index.htm">ICR</a>&<a href="http://agis.caas.cn/en/research/principalinvestigator/253199.htm">AGIS</a> at <a href="http://www.caas.cn/en/">CAAS, China</a>
+<br>Find me at <a href="https://www.researchgate.net/profile/Guanjing-Hu>ResearchGate</a> | <a href="https://scholar.google.com/citations?user=6PMcbdoAAAAJ&hl=en>Google Scholar</a> | <a href="https://orcid.org/0000-0001-8552-7394">ORCID</a> 
+</div>
+
+<div class="responsive">
+  <div class="img">
+    <a target="_blank">
+      <img src="/img/xxp.jpg" alt="Xianpeng Xiong" width="300" height="400">
+    </a>
+  </div>
+</div>
+
+<div class="responsive">
+<b>Xianpeng Xiong (熊显鹏)</b> is a Postdoc Researcher working on cotton salt and Verticillium wilt resistance. His <a href="/CV_xxiong.pdf">CV</a>
 </div>
 
 <div class="clearfix"></div>
