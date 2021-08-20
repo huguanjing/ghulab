@@ -46,6 +46,7 @@ subtitle: Welcome to the G. Hu Lab
  
      <br>
      <br>
+     <br>
      <div class="img">
        <a target="_blank">
          <img src="/img/zd.jpg" alt="De Zhu" width="320" height="240">
@@ -123,6 +124,7 @@ subtitle: Welcome to the G. Hu Lab
 <div style="display:block; width:100%;">
   <div style="width:48%; float: left; display: inline-block;">
 
+    <br>
     <br>
     <br>
     <div class="img">
