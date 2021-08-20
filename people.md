@@ -51,6 +51,32 @@ subtitle: Welcome to the G. Hu Lab
   </tr>
 </table>
 
+<div style="display:block; width:100%;">
+  <div style="width:50%; float: left; display: inline-block;">
+  <div class="img">
+  <a target="_blank">
+  <img src="/img/xxp.jpg" alt="Xianpeng Xiong" width="300" height="400">
+  </a>
+  </div>
+  <b>Xianpeng Xiong (熊显鹏)</b> Him/His
+  <br>Ph.D., Shihezi University, China <a href="/CV_xxiong.pdf">CV</a>
+  <br>Research Interests: cotton salt tolerance and Verticillium wilt resistance
+  <br>Email: xiongxianpeng at caas.cn
+  </div>
+  <div style="width:50%; float: left; display: inline-block;">
+  <div class="img">
+    <a target="_blank">
+      <img src="/img/zd.jpg" alt="De Zhu" width="400" height="300">
+    </a>
+  </div>
+  <b>De Zhu (祝德)</b> Him/His
+  <br>Ph.D., Hazhong Agricultural University, China <a href="/CV_dzhu.pdf">CV</a>
+  <br>Research Interests: Genetics and Bioinformatics
+  <br>Email: zhude at caas.cn
+  </div>
+</div>
+
+
 
 <div class="class1">
   <div class="img">
