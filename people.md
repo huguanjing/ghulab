@@ -71,7 +71,7 @@ subtitle: Welcome to the G. Hu Lab
     <div class="class1">
     <div class="img">
     <a target="_blank">
-      <img src="/img/wqq.jpg" alt="Qianqian Wu" width="400" height="400">
+      <img src="/img/wqq.jpg" alt="Qianqian Wu" width="380" height="380">
     </a>
     </div>
     <b>Qianqian Wu (吴倩倩)</b> She/Her
@@ -81,7 +81,7 @@ subtitle: Welcome to the G. Hu Lab
 
   </div>
   
-  <div style="width:4%; float: left; display: inline-block;">
+  <div style="width:3%; float: left; display: inline-block;">
   </div>
   
   <div style="width:48%; float: left; display: inline-block;">
@@ -102,47 +102,27 @@ subtitle: Welcome to the G. Hu Lab
 
 <div class="clearfix"></div>
 
------
+<div style="display:block; width:100%;">
+  <div style="width:48%; float: left; display: inline-block;">
 
-<div class="class1">
-  <div class="img">
-    <a target="_blank">
-      <img src="/img/wqq.jpg" alt="Qianqian Wu" width="400" height="400">
-    </a>
+    <div class="class1">
+    <div class="img">
+      <a target="_blank">
+        <img src="/img/zy.jpg" alt="Ya Zhang" width="300" height="400">
+      </a>
+    </div>
+    <b>Ya Zhang (张雅)</b> She/Her
+    <br>M.Sc., Fujian Agriculture and Forestry University, China
+    <br>Research Interests: Cotton evolution and Bioinformatics
+    <br>Email: zhangya19 at yeah.net
+  
   </div>
-<b>Qianqian Wu (吴倩倩)</b> She/Her
-<br>M.Sc., Nanjing Agricultural University, China
-<br>Research Interests: mechanism of translation regulation
-<br>Email: wuqianqianchina at 163.com
-</div>
-
-
-
-
-<div class="class2">
-  <div class="img">
-    <a target="_blank">
-      <img src="/img/zll.jpeg" alt="Lulu Zhao" width="400" height="300">
-    </a>
+  
+  <div style="width:3%; float: left; display: inline-block;">
   </div>
-<b>Lulu Zhao (赵露露)</b> She/Her
-<br>M.Sc., Shanxi normal University, China
-<br>Research Interests: Plant anatomy
-<br>Email:  zhaolulu1995 at yeah.net
-</div>
-
-<div class="clearfix"></div>
-
-<div class="class1">
-  <div class="img">
-    <a target="_blank">
-      <img src="/img/zy.jpg" alt="Ya Zhang" width="300" height="400">
-    </a>
+  
+  <div style="width:48%; float: left; display: inline-block;">
   </div>
-<b>Ya Zhang (张雅)</b> She/Her
-<br>M.Sc., Fujian Agriculture and Forestry University, China
-<br>Research Interests: Cotton evolution and Bioinformatics
-<br>Email: zhangya19 at yeah.net
 </div>
 
 <div class="clearfix"></div>
