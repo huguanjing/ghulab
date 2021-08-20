@@ -29,7 +29,7 @@ subtitle: Welcome to the G. Hu Lab
 
     <div class="img">
     <a target="_blank">
-    <img src="/img/xxp.jpg" alt="Xianpeng Xiong" width="300" height="400">
+    <img src="/img/xxp.jpg" alt="Xianpeng Xiong" width="270" height="360">
     </a>
     </div>
     <b>Xianpeng Xiong (熊显鹏)</b> Him/His
@@ -44,12 +44,9 @@ subtitle: Welcome to the G. Hu Lab
   
   <div style="width:48%; float: left; display: inline-block;">
  
-    <br>
-    <br>
-    <br>
      <div class="img">
        <a target="_blank">
-         <img src="/img/zd.jpg" alt="De Zhu" width="400" height="300">
+         <img src="/img/zd.jpg" alt="De Zhu" width="480" height="360">
        </a>
      </div>
      <b>De Zhu (祝德)</b> Him/His
@@ -70,7 +67,7 @@ subtitle: Welcome to the G. Hu Lab
 
     <div class="img">
     <a target="_blank">
-      <img src="/img/wqq.jpg" alt="Qianqian Wu" width="300" height="300">
+      <img src="/img/wqq.jpg" alt="Qianqian Wu" width="360" height="360">
     </a>
     </div>
     <b>Qianqian Wu (吴倩倩)</b> She/Her
@@ -87,7 +84,7 @@ subtitle: Welcome to the G. Hu Lab
  
     <div class="img">
      <a target="_blank">
-       <img src="/img/zll.jpeg" alt="Lulu Zhao" width="400" height="300">
+       <img src="/img/zll.jpeg" alt="Lulu Zhao" width="480" height="360">
      </a>
     </div>
     <b>Lulu Zhao (赵露露)</b> She/Her
@@ -98,16 +95,14 @@ subtitle: Welcome to the G. Hu Lab
   </div>
 </div>
 
-<div class="clearfix">
-<b>
-</div>
+---
 
 <div style="display:block; width:100%;">
   <div style="width:48%; float: left; display: inline-block;">
 
     <div class="img">
       <a target="_blank">
-        <img src="/img/zy.jpg" alt="Ya Zhang" width="300" height="400">
+        <img src="/img/zy.jpg" alt="Ya Zhang" width="270" height="360">
       </a>
     </div>
     <b>Ya Zhang (张雅)</b> She/Her
@@ -126,18 +121,15 @@ subtitle: Welcome to the G. Hu Lab
 
 <div class="clearfix"></div>
 
------
+----
 
 ## Graduate Student
 <div style="display:block; width:100%;">
   <div style="width:48%; float: left; display: inline-block;">
 
-    <br>
-    <br>
-    <br>
     <div class="img">
     <a target="_blank">
-      <img src="/img/lx.jpg" alt="Xuan Liu" width="400" height="300">
+      <img src="/img/lx.jpg" alt="Xuan Liu" width="480" height="360">
     </a>
     </div>
     <b>Xuan Liu (刘璇)</b> She/Her
@@ -154,7 +146,7 @@ subtitle: Welcome to the G. Hu Lab
 
     <div class="img">
         <a target="_blank">
-          <img src="/img/swt.jpg" alt="Wen" width="300" height="400">
+          <img src="/img/swt.jpg" alt="Wen" width="270" height="360">
         </a>
       </div>
     <b>Wenting Song (宋汶亭)</b> She/Her
