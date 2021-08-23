@@ -68,11 +68,11 @@ subtitle: Welcome to the G. Hu Lab
 
     <div class="img">
       <a target="_blank">
-        <img src="/img/tahir.jpg" alt="Tahir Mahmood" width="240" height="320">
+        <img src="/img/tahir.jpg" alt="Tahir Mahmood" width="320" height="240">
       </a>
     </div>
     <b>Tahir Mahmood</b> Him/His
-    <br>PH.D., Institute of Cotton Research, CAAS, China
+    <br>PH.D., Institute of Cotton Research, CAAS, China <a href="/CV_tahir.pdf">CV</a>
     <br>Research Interests: Molecular plant breeding and genetics, genome wide association studies (GWAS), and cotton stress physiology
     <br>Email: tahirmtaha at hotmail.com
 
