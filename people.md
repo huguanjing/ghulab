@@ -68,7 +68,7 @@ subtitle: Welcome to the G. Hu Lab
 
     <div class="img">
       <a target="_blank">
-        <img src="/img/tahir.jpg" alt="Tahir Mahmood" width="370" height="320">
+        <img src="/img/tahir.jpg" alt="Tahir Mahmood" width="320" height="275">
       </a>
     </div>
     <b>Tahir Mahmood</b> Him/His
