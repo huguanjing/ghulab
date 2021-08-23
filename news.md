@@ -6,6 +6,7 @@ subtitle: Keep the excitement going
 
 ### 2021
 * Aug 5: Welcome Ya Zhang join the lab as research assistant! 欢迎张雅作为科研助理加入团队
+* Aug 3: Welcome Dr. Tahir Mahmood join the lab! 欢迎Tahir Mahmood 博士加入团队
 * July 15: Welcome Xuan Liu and Wenting Song to the lab for summer internship! 欢迎刘璇和宋汶亭到实验室实习
 * July 1: Congratulations to Lulu on earning her master's degree! 庆祝露露获得硕士学位
 * Mar 27: We are now moving from the 1st compus to the 2nd (or transitional) companus. 我们搬家到第二所区了
