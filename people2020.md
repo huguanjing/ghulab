@@ -88,6 +88,42 @@ subtitle: Welcome to the G. Hu Lab
   <div style="width:48%; float: left; display: inline-block;">
 
     <div class="img">
+    <a target="_blank">
+      <img src="/img/wqq.jpg" alt="Qianqian Wu" width="320" height="320">
+    </a>
+    </div>
+    <b>Qianqian Wu (吴倩倩)</b> She/Her
+    <br>M.Sc., Nanjing Agricultural University, China
+    <br>Research Interests: mechanism of translation regulation
+    <br>Email: wuqianqianchina at 163.com
+
+  </div>
+
+  <div style="width:3%; float: left; display: inline-block;">
+  </div>
+
+  <div style="width:48%; float: left; display: inline-block;">
+
+    <div class="img">
+     <a target="_blank">
+       <img src="/img/zll.jpeg" alt="Lulu Zhao" width="430" height="320">
+     </a>
+    </div>
+    <b>Lulu Zhao (赵露露)</b> She/Her
+    <br>M.Sc., Shanxi normal University, China
+    <br>Research Interests: Plant anatomy
+    <br>Email:  zhaolulu1995 at yeah.net
+
+  </div>
+</div>
+
+<div class="clearfix"></div>
+---
+
+<div style="display:block; width:100%;">
+  <div style="width:48%; float: left; display: inline-block;">
+
+    <div class="img">
       <a target="_blank">
         <img src="/img/zy.jpg" alt="Ya Zhang" width="240" height="320">
       </a>
@@ -118,7 +154,7 @@ subtitle: Welcome to the G. Hu Lab
     </div>
     <b>Xuan Liu (刘璇)</b> She/Her
     <br>Master student (Sep 2021-), Zhengzhou University, China
-    <br>Research Interests: Pan-genome and structural variation
+    <br>Research Interests: Biology and Medicine
     <br>Email: 2607657252 at qq.com
 
   </div>
@@ -135,7 +171,7 @@ subtitle: Welcome to the G. Hu Lab
       </div>
     <b>Wenting Song (宋汶亭)</b> She/Her
     <br>Master student (Sep 2021- ), Zhengzhou University, China
-    <br>Research Interests: Cottonseed oil
+    <br>Research Interests: Biology and Medicine
     <br>Email:  songwentingu at 163.com
 
   </div>
@@ -148,9 +184,6 @@ subtitle: Welcome to the G. Hu Lab
 
 ## Lab Alumni
 
-**Research Assistant**
-* Qianqian Wu (吴倩倩), 2021/2-2021/12, wuqianqianchina at 163.com
-* Lulu Zhao (赵露露), 2021/2-2022/05, zhaolulu1995 at yeah.net
-* Jiaqi Wang (王佳奇), 2021/9-2022/05, 187400532301 at 139.com
-
- 
+* Research Assistant
+* Graduate student
+* Postdoc

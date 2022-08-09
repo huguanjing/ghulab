@@ -10,7 +10,7 @@ image: /img/profile.jpg
 
 
 ----
-\* Co-first author(s) indicated with asterisks
+Co-first author(s) indicated with pound “#”, and corresponding author(s) indicated with asterisks “\*”.
 
 ## Under preparation
 
@@ -21,11 +21,22 @@ image: /img/profile.jpg
 
 ## In press/review/revision
 
-
-
 Girimurugan, S.B., X. Sui, **G. Hu**, Z.M. Turpin, H.W. Bass, J. Zhang. iSeg-Web: a web based implementation of iSeg, a genomic segmentation algorithm. *BMC Bioinformatics* (in review since 6/19/19)
 
+
+
+## 2022
+
+Dong, Y., ***G. Hu**, C.E. Grover, E. R. Miller,  *S. Zhu, & *J.F. Wendel. [Parental legacy versus regulatory innovation in salt stress responsiveness of allopolyploid cotton (Gossypium) species](https://onlinelibrary.wiley.com/doi/full/10.1111/tpj.15863). *The Plant Journal*  [PDF](/files/TPJ2022.pdf)
+
+Tahir Mahmood, M. S. Iqbal, H. Li, M. F. Nazir, S. Khalid, Z. Sarfraz, D. Hu, B. Chen, X. Geng, S. M. Tajo, W. Dev, Z. Iqbal, P. Zhao, ***G. Hu**, *X. Du. [Differential seedling growth and tolerance indices reflect drought tolerance in cotton](https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-022-03724-4). *BMC Plant Biology* [PDF](/files/MahmoodBAM2022.pdf)
+
+#Yang, Y., #C. Zhang, #D. Zhu, H. He, Z. Wei, Q. Yuan, X. Li, X. Gao, B. Zhang, H. Gao, B. Wang, S. Cao, T. Wang, Y. Li, X. Yu, L. Guo, **\*G. Hu**, \*Q. Qian, \*L. Shang. [Identifying candidate genes and patterns of heat-stress response in rice using a genome-wide association study and transcriptome analyses](https://doi.org/10.1016/j.cj.2022.02.011). *The Crop Journal* 2022. [PDF](/files/crop2022.pdf)
+
 ## 2021
+
+Grover,C.E., D. Yuan, M.A. Arick, E.R. Miller, **G. Hu**, D.G. Peterson, J.F. Wendel, J.A. Udall. [The *Gossypium anomalum* genome as a resource for cotton improvement and evolutionary analysis of hybrid incompatibility](https://doi.org/10.1093/g3journal/jkab319). *G3: Genes, Genomes, Genetics* 2021 Oct 19;11(11):jkab319  [PDF](/files/G3Bgenome2021.pdf)
+
 Grover, C., D. Yuan, M. Arick, E.R. Miller, **G. Hu**, D. Peterson, J.F. Wendel, and J. Udall. 2021 [The Gossypium stocksii genome as a novel resource for cotton improvement](https://academic.oup.com/g3journal/advance-article/doi/10.1093/g3journal/jkab125/6237488). *G3* jkab125 [PDF](/files/G3Egenome2021.pdf)
 
 **Hu, G.**, C.E. Grover, D. Yuan, J. Jareczek, Y. Dong, E. Miller, J.L. Conover, J.F. Wendel. 2021. "Evolution and diversity of the cotton genome" in [*Cotton Precision Breeding*](https://www.springer.com/gp/book/9783030645038#aboutBook) edited by M.U. Rahman, Y. Zafar and T.Z. Zhang. Springer International Publishing. [Book Chapter] [PDF](/files/chapter2021.pdf)
@@ -48,7 +59,7 @@ Grover, C.E., M. Yoo, M. Gore, D. Harker, R. Byers, A. Lipka, **G. Hu**, D. Yuan
 
 ## 2019
 
-\*Bao, Y., \***G. Hu**, C.E. Grover; J.L. Conover, D. Yuan and J.F. Wendel. 2019. [Unraveling *cis* and *trans* regulatory evolution during cotton domestication](https://www.nature.com/articles/s41467-019-13386-w#Sec2) *Nature Communications* 10: 5399 [PDF](/files/Ncomms2019.pdf)
+\#Bao, Y., \#**G. Hu**, C.E. Grover; J.L. Conover, D. Yuan and J.F. Wendel. 2019. [Unraveling *cis* and *trans* regulatory evolution during cotton domestication](https://www.nature.com/articles/s41467-019-13386-w#Sec2) *Nature Communications* 10: 5399 [PDF](/files/Ncomms2019.pdf)
 
 Dong, Y., **G. Hu**, J. Yu, S. Thu, C.E. Grover; S. Zhu, and J.F. Wendel. 2019. [Salt tolerance in diploid and polyploid cotton *Gossypium* species](https://onlinelibrary.wiley.com/doi/abs/10.1111/tpj.14580) *Plant J* 101:1135-1151 [PDF](/files/TPL2019.pdf)
 
