@@ -4,7 +4,15 @@ title: News
 subtitle: Keep the excitement going
 ---
 
+## 2022
+
+* July 23-25: Guanjing and Xianpeng attended the 1st Youth Workshop of Cotton Professional Committee at Crop Science Society of China (中国作物学会棉花专业委员会第一届青年学术研讨会) at Alaer, Xinjiang. Xianpeng gave an oral presentation entitled "Regulatory gene network analysis of cotton fiber development"（棉花纤维发育基因转录调控网络解析).
+* June 27: Welcome Xueyuan Ma join the lab as research assistant! ! 欢迎马学远作为科研助理加入团队
+* June 15: Welcome the 2022 class of sgraduate students joining the lab for summer internship! 欢迎2022级的新同学们开启实验室实习
+* April 27: Welcome Yulin Huang join the lab as the lab manager! 欢迎黄宇琳加入成为实验室管理员
+
 ### 2021
+
 * Aug 5: Welcome Ya Zhang join the lab as research assistant! 欢迎张雅作为科研助理加入团队
 * Aug 3: Welcome Dr. Tahir Mahmood join the lab! 欢迎Tahir Mahmood 博士加入团队
 * July 15: Welcome Xuan Liu and Wenting Song to the lab for summer internship! 欢迎刘璇和宋汶亭到实验室实习
