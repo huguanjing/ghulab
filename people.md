@@ -147,12 +147,9 @@ subtitle: Welcome to the G. Hu Lab
 <div style="display:block; width:100%;">
   <div style="width:48%; float: left; display: inline-block;">
 
-    <br>
-    <br>
-    <br>
     <div class="img">
         <a target="_blank">
-          <img src="/img/fgl.jpeg" alt="fgl" width="320" height="300">
+          <img src="/img/fgl.jpeg" alt="fgl" width="240" height="320">
         </a>
     </div>
     <b>Fu, Guiling（傅贵灵）</b> She/Her
@@ -186,9 +183,6 @@ subtitle: Welcome to the G. Hu Lab
 <div style="display:block; width:100%;">
   <div style="width:48%; float: left; display: inline-block;">
 
-    <br>
-    <br>
-    <br>
     <div class="img">
         <a target="_blank">
           <img src="/img/gz.jpeg" alt="gz" width="240" height="320">
@@ -225,9 +219,6 @@ subtitle: Welcome to the G. Hu Lab
 <div style="display:block; width:100%;">
   <div style="width:48%; float: left; display: inline-block;">
 
-    <br>
-    <br>
-    <br>
     <div class="img">
         <a target="_blank">
           <img src="/img/gsc.jpeg" alt="gsc" width="240" height="320">
@@ -263,9 +254,6 @@ subtitle: Welcome to the G. Hu Lab
 <div style="display:block; width:100%;">
   <div style="width:48%; float: left; display: inline-block;">
 
-    <br>
-    <br>
-    <br>
     <div class="img">
     <a target="_blank">
       <img src="/img/zss.jpeg" alt="zss" width="240" height="320">
@@ -305,7 +293,7 @@ subtitle: Welcome to the G. Hu Lab
 
     <div class="img">
       <a target="_blank">
-        <img src="/img/hr.jpg" alt="hr" width="270" height="320">
+        <img src="/img/hr.jpeg" alt="hr" width="270" height="320">
       </a>
     </div>
     <b>Hao, Rui（郝睿）</b> She/Her
