@@ -143,8 +143,46 @@ subtitle: Welcome to the G. Hu Lab
 
 <div class="clearfix"></div>
 
----
+-----
+<div style="display:block; width:100%;">
+  <div style="width:48%; float: left; display: inline-block;">
 
+    <br>
+    <br>
+    <br>
+    <div class="img">
+        <a target="_blank">
+          <img src="/img/fgl.jpg" alt="fgl" width="240" height="320">
+        </a>
+    </div>
+    <b>Fu, Guiling（傅贵灵）</b> She/Her
+    <br>Master student (Sep 2021- ), Shanxi Agricultrual University, China
+    <br>Research Interests: Cottonseed oil
+    <br>Email:  songwentingu at 163.com
+  </div>
+
+  <div style="width:3%; float: left; display: inline-block;">
+  </div>
+
+  <div style="width:48%; float: left; display: inline-block;">
+
+    <div class="img">
+        <a target="_blank">
+            <img src="/img/lht.jpg" alt="Luo Haotian" width="320" height="240">
+        </a>
+    </div>
+    <b>Luo, Haotian（罗皓天）</b> Him/His
+    <br>Master（Sep 2019-Jun 2022），Liaoning University，Shenyang，China
+    <br>PhD (Sep 2022-)，CRI/AGIS CAAS，China
+    <br>Research Interests: Regulation of gene expression in polyploidy
+    <br>Email: HaotianLuo1108 at 163.com
+
+  </div>
+</div>
+
+<div class="clearfix"></div>
+
+-----
 
 ## Lab Alumni
 
