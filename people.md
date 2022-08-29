@@ -152,7 +152,7 @@ subtitle: Welcome to the G. Hu Lab
     <br>
     <div class="img">
         <a target="_blank">
-          <img src="/img/fgl.jpg" alt="fgl" width="240" height="320">
+          <img src="/img/fgl.jpeg" alt="fgl" width="320" height="300">
         </a>
     </div>
     <b>Fu, Guiling（傅贵灵）</b> She/Her
@@ -168,12 +168,12 @@ subtitle: Welcome to the G. Hu Lab
 
     <div class="img">
         <a target="_blank">
-            <img src="/img/lht.jpg" alt="Luo Haotian" width="320" height="240">
+            <img src="/img/lht.jpeg" alt="Luo Haotian" width="320" height="240">
         </a>
     </div>
     <b>Luo, Haotian（罗皓天）</b> Him/His
     <br>Master（Sep 2019-Jun 2022），Liaoning University，Shenyang，China
-    <br>PhD (Sep 2022-)，CRI/AGIS CAAS，China
+    <br>PhD student (Sep 2022-)，CRI/AGIS CAAS，China
     <br>Research Interests: Regulation of gene expression in polyploidy
     <br>Email: HaotianLuo1108 at 163.com
 
@@ -183,7 +183,143 @@ subtitle: Welcome to the G. Hu Lab
 <div class="clearfix"></div>
 
 -----
+<div style="display:block; width:100%;">
+  <div style="width:48%; float: left; display: inline-block;">
 
+    <br>
+    <br>
+    <br>
+    <div class="img">
+        <a target="_blank">
+          <img src="/img/gz.jpeg" alt="gz" width="240" height="320">
+        </a>
+    </div>
+    <b>Gao, Zhan（高瞻）</b> Him/His
+    <br>PhD student（Sep 2022-），Huazhong Agricultural University，China
+    <br>Research Interests: Salt tolerance
+    <br>Email:  1729459514 at qq.com
+  </div>
+
+  <div style="width:3%; float: left; display: inline-block;">
+  </div>
+
+  <div style="width:48%; float: left; display: inline-block;">
+
+    <div class="img">
+        <a target="_blank">
+            <img src="/img/nry.jpeg" alt="nry" width="240" height="320">
+        </a>
+    </div>
+    <b>Niu, Ruoyu（牛若宇）</b> Him/His
+    <br>Master（Sep 2019-Jun 2022），Northwest A&F University，China
+    <br>PhD student (Sep 2022-)，Huazhong Agricultural University，China
+    <br>Research Interests: Bioinformation and machine learning
+    <br>Email: niuruoyu168 at 163.com
+
+  </div>
+</div>
+
+<div class="clearfix"></div>
+
+-----
+<div style="display:block; width:100%;">
+  <div style="width:48%; float: left; display: inline-block;">
+
+    <br>
+    <br>
+    <br>
+    <div class="img">
+        <a target="_blank">
+          <img src="/img/gsc.jpeg" alt="gsc" width="240" height="320">
+        </a>
+    </div>
+    <b>Gu, Sicheng（顾思成）</b> Him/His
+    <br>Master student（Sep 2022-），Huazhong Agricultural University，China
+    <br>Research Interests: Salt tolerance
+    <br>Email:  444890090 at qq.com
+  </div>
+
+  <div style="width:3%; float: left; display: inline-block;">
+  </div>
+
+  <div style="width:48%; float: left; display: inline-block;">
+
+    <div class="img">
+        <a target="_blank">
+            <img src="/img/ldm.jpeg" alt="ldm" width="320" height="240">
+        </a>
+    </div>
+    <b>Li, Dongming（李东明）</b> Him/His
+    <br>Master student（Sep 2022-），Zhengzhou University，China
+    <br>Research Interests: Crop domestication
+    <br>Email: li1240131923 at 163.com
+
+  </div>
+</div>
+
+<div class="clearfix"></div>
+
+-----
+<div style="display:block; width:100%;">
+  <div style="width:48%; float: left; display: inline-block;">
+
+    <br>
+    <br>
+    <br>
+    <div class="img">
+    <a target="_blank">
+      <img src="/img/zss.jpeg" alt="zss" width="240" height="320">
+    </a>
+    </div>
+    <b>Zhang, Shishi（张诗诗）</b> She/Her
+    <br>Master student (Sep 2022-), CRI/AGIS CAAS, China
+    <br>Research Interests: Microscopic observation of cotton fiber
+    <br>Email: Rendongzss at 163.com
+
+  </div>
+
+  <div style="width:3%; float: left; display: inline-block;">
+  </div>
+
+  <div style="width:48%; float: left; display: inline-block;">
+
+    <div class="img">
+        <a target="_blank">
+          <img src="/img/lqw.jpeg" alt="lqw" width="240" height="320">
+        </a>
+      </div>
+    <b>Liu, Qianwen（刘倩雯）</b> She/Her
+    <br>Master student (Sep 2022- ), CRI/AGIS CAAS, China
+    <br>Research Interests: Genetic breeding
+    <br>Email: lqw1351542988 at 163.com
+
+  </div>
+</div>
+
+<div class="clearfix"></div>
+
+
+-----
+<div style="display:block; width:100%;">
+  <div style="width:48%; float: left; display: inline-block;">
+
+    <div class="img">
+      <a target="_blank">
+        <img src="/img/hr.jpg" alt="hr" width="270" height="320">
+      </a>
+    </div>
+    <b>Hao, Rui（郝睿）</b> She/Her
+    <br>Master student (Sep 2022- ), Huazhong Agricultural University，China
+    <br>Research Interests: Cotton genomics
+    <br>Email: haorui_200109 at 163.com
+
+  </div>
+</div>
+
+<div class="clearfix"></div>
+
+
+-----
 ## Lab Alumni
 
 **Research Assistant**
